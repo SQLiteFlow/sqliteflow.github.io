@@ -4,7 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
-5.2.1 - Aug 12, 2021
+5.2.3 - Aug 23, 2021
+- Bug fixes and stability improvements.
+
+5.2.2 - Aug 12, 2021
 - Supports show table/view counts in Database List.
 
 5.2.0 - Jul 21, 2021
