@@ -4,7 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
-5.2.2 - 2021年8月23日
+5.2.4 - 2021年8月23日
+- バグ修正と安定性の向上。
+
+5.2.3 - 2021年8月23日
 - バグ修正と安定性の向上。
 
 5.2.2 - 2021年8月12日
