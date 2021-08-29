@@ -13,7 +13,7 @@ description: SQLiteFlow for iOS release notes.
 5.1.0 - Aug 3, 2020
 - UI enhancement.
 - Query Editor, supports syntax aware indenting when typing Return.
-- This version of SQLiteFlow now requires iOS 14.1 or later.
+- This version of SQLiteFlow now requires iOS 14.0 or later.
 - Additional bug fixes and stability improvements.
 
 5.0.5 - May 21, 2020
