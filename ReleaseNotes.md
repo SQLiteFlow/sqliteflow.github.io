@@ -4,6 +4,14 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+5.3.0 - Sep 20, 2021
+- Database List, supports filter item only by tables or filter item only by table fields.
+- Database List, supports right click a field name to rename a table field. (Require SQLite 3.25.0 or later.)
+- Data Editor, add "Edit as Text" to text cell's context menu, so users can use it to bring up a popover text editor to edit the cell's content as text.
+- Export, supports copy the export result to clipboard directly.
+- Now if users select a window tab, then the selected item in database list will be synced based on the tab's content if appropriate.
+- Supports access Apple simulator. So users can open their app's Documents directory more easily when developing their apps.
+
 5.2.4 - Aug 23, 2021
 - Bug fixes and stability improvements.
 

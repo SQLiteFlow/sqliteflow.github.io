@@ -11,7 +11,7 @@ SQLiteFlowは、直感的で安定した信頼性の高いMacとiOS用のSQLite�
 macOS 10.14+ / [iOS 14.0+](iOS)
 
 ## ダウンロード
-バージョン 5.2.4 | 2021-08-23 | <a href="ReleaseNotes" target="_blank">リリースノート</a>
+バージョン 5.3.0 | 2021-09-20 | <a href="ReleaseNotes" target="_blank">リリースノート</a>
 <br/><br/>[![Download](macOS/DownloadOnTheMacAppStore.svg)](macappstores://itunes.apple.com/app/id1378587993)
 
 ## 機能
@@ -106,6 +106,9 @@ macOS 10.14+ / [iOS 14.0+](iOS)
 
 **データベースの暗号化**
 - SQLCipher ライブラリによって暗号化された暗号化された SQLite データベースを処理できます。
+
+**アクセスシミュレータ**
+- アップルシミュレータへのアクセスをサポートしています。そのため、ユーザーはアプリを開発するときに、アプリのドキュメント ディレクトリをより簡単に開くことができます。
 
 **言語**
 - [English](/) \| [简体中文 (Chinese, Simplified)](/zh-Hans) \| [繁體中文 (Chinese, Traditional)](/zh-Hant) \|日本語 (Japanese)

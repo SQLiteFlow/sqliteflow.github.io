@@ -11,7 +11,7 @@ SQLiteFlow是为Mac和iOS平台开发的直观，稳定和易用的SQLite编辑�
 macOS 10.14+ / [iOS 14.0+](iOS)
 
 ## 下载
-版本 5.2.4 | 2021-08-23 | <a href="ReleaseNotes" target="_blank">更新说明</a>
+版本 5.3.0 | 2021-09-20 | <a href="ReleaseNotes" target="_blank">更新说明</a>
 <br/><br/>[![Download](macOS/DownloadOnTheMacAppStore.svg)](macappstores://itunes.apple.com/app/id1378587993)
 
 ## 功能
@@ -106,6 +106,9 @@ macOS 10.14+ / [iOS 14.0+](iOS)
 
 **数据库加密**
 - 支持处理经SQLCipher库加密的数据库。
+
+**访问模拟器**
+- 支持访问苹果模拟器。这样用户在开发他们的App时，就可以更方便地打开他们App的Documents目录了。
 
 **语言**
 - [English](/) \| 简体中文 (Chinese, Simplified) \| [繁體中文 (Chinese, Traditional)](/zh-Hant) \| [日本語 (Japanese)](/ja)

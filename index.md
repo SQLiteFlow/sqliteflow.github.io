@@ -11,7 +11,7 @@ SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reli
 macOS 10.14+ / [iOS 14.0+](iOS)
 
 ## Download
-Version 5.2.4 | Aug 23, 2021 | <a href="ReleaseNotes" target="_blank">Release Notes</a>
+Version 5.3.0 | Sep 20, 2021 | <a href="ReleaseNotes" target="_blank">Release Notes</a>
 <br/><br/>[![Download](macOS/DownloadOnTheMacAppStore.svg)](macappstores://itunes.apple.com/app/id1378587993)
 
 ## Features
@@ -106,6 +106,9 @@ Version 5.2.4 | Aug 23, 2021 | <a href="ReleaseNotes" target="_blank">Release No
 
 **Database Encryption**
 - Supports handle encrypted SQLite databases which are encrypted by SQLCipher library.
+
+**Access Simulator**
+- Supports access Apple simulator. So users can open their app's Documents directory more easily when developing their apps.
 
 **Languages**
 - English \| [简体中文 (Chinese, Simplified)](/zh-Hans) \| [繁體中文 (Chinese, Traditional)](/zh-Hant) \| [日本語 (Japanese)](/ja)
