@@ -109,7 +109,6 @@ Version 5.3.0 | Sep 20, 2021 | <a href="ReleaseNotes" target="_blank">Release No
 
 **Access Simulator**
 - Supports access Apple simulator. So users can open their app's Documents directory more easily when developing their apps.
-![Access Siumulator](macOS/AccessSimulator.png)
 
 **Languages**
 - English \| [简体中文 (Chinese, Simplified)](/zh-Hans) \| [繁體中文 (Chinese, Traditional)](/zh-Hant) \| [日本語 (Japanese)](/ja)
