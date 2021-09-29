@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+5.3.0 - Sep 29, 2020
+- Data Editor, more convenient filter behavior. 
+- Query Editor, supports customize syntax highlighting.
+- Additional bug fixes and stability improvements.
+
 5.1.2 - Aug 18, 2020
 - Shortcuts, allows "Run Query" and "Import CSV" run when device is locked to make it convenient for automation purpose.
 
