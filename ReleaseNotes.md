@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+5.4.0 - Nov 12, 2021
+- Update SQLCipher library to version 4.5.0.
+- This version of SQLiteFlow requires macOS 10.15 or later.
+- Additional bug fixes and stability improvements.
+
 5.3.0 - Sep 20, 2021
 - Database List, supports filter item only by tables or filter item only by table fields.
 - Database List, supports right click a field name to rename a table field. (Require SQLite 3.25.0 or later.)
