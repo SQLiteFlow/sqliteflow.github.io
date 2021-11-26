@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新说明。
 ---
 
+5.5.0 - 2021年11月26日
+- 添加捷径支持。现在“执行查询”和“导入CSV“已经可以在捷径应用中使用了。
+- 其它问题修复与稳定性改善。
+
 5.4.0 - 2021年11月12日
 - 更新SQLCipher库版本到4.5.0。
 - 此版本的SQLiteFlow需要macOS 10.14支持。

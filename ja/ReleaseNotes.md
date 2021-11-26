@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+5.5.0 - 2021年11月26日
+- ショートカットの追加のサポート今すぐ「クエリを実行」と「CSV のインポート」は、ショートカット アプリで利用できます。
+- 追加のバグ修正と安定性の向上。
+
 5.4.0 - 2021年11月12日
 - バージョン 4.5.0 に SQLCipher ライブラリを更新します。
 - このバージョンの SQLiteFlow には、macOS 10.15 以降が必要です。
