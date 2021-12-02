@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+5.6.0 - Nov 29, 2021
+- Supports SQLite version 3.37.0 (2021-11-27).
+
 5.5.0 - Nov 26, 2021
 - Add Shortcuts support. Now “Run Query” and “Import CSV” are available in the Shortcuts app.
 - Additional bug fixes and stability improvements.
