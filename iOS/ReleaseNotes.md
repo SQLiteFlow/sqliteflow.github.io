@@ -4,33 +4,36 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
-5.3.0 - Sep 29, 2020
+5.3.1 - Mar 29, 2022
+- Bug fixes and stability improvements.
+
+5.3.0 - Sep 29, 2021
 - Data Editor, more convenient filter behavior. 
 - Query Editor, supports customize syntax highlighting.
 - Additional bug fixes and stability improvements.
 
-5.1.2 - Aug 18, 2020
+5.1.2 - Aug 18, 2021
 - Shortcuts, allows "Run Query" and "Import CSV" run when device is locked to make it convenient for automation purpose.
 
-5.1.1 - Aug 12, 2020
+5.1.1 - Aug 12, 2021
 - Bug fixes and stability improvements.
 
-5.1.0 - Aug 3, 2020
+5.1.0 - Aug 3, 2021
 - UI enhancement.
 - Query Editor, supports syntax aware indenting when typing Return.
 - This version of SQLiteFlow now requires iOS 14.0 or later.
 - Additional bug fixes and stability improvements.
 
-5.0.5 - May 21, 2020
+5.0.5 - May 21, 2021
 - When the app's language is set to Simplified Chinese, Query Editor's SQL auto-completion feature now supports use Pinyin to search specific table names or fields.
 
-5.0.4 - May 17, 2020
+5.0.4 - May 17, 2021
 - Enhancement to the code auto completion behavior.
 
-5.0.3 - May 16, 2020
+5.0.3 - May 16, 2021
 - Enhancement to the code auto completion behavior.
 
-5.0.2 - May 11, 2020
+5.0.2 - May 11, 2021
 - Enhancement to the code auto completion behavior.
 - Additional bug fixes and stability improvements.
 

@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+5.3.1 - 2021年3月29日
+- 問題修復與穩定性改善。
+
 5.3.0 - 2021年9月29日
 - 資料編輯器，支援更方便的使用過濾。
 - 查詢編輯器，支援自定義語法高亮。
