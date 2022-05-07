@@ -11,7 +11,7 @@ SQLiteFlowは、直感的で安定した信頼性の高いMacとiOS用のSQLite�
 macOS 10.15+ / [iOS 14.0+](iOS)
 
 ## ダウンロード
-バージョン 5.6.8 | 2022-04-28 | <a href="ReleaseNotes" target="_blank">リリースノート</a>
+バージョン 5.6.9 | 2022-05-07 | <a href="ReleaseNotes" target="_blank">リリースノート</a>
 <br/><br/>[![Download](macOS/DownloadOnTheMacAppStore.svg)](macappstores://itunes.apple.com/app/id1378587993)
 
 ## 機能
