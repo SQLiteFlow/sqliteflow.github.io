@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+5.7.0 - May 16, 2022
+- The speed of loading databases has been significantly improved.
+- Data Editor, upgrade show blob as image to show blob as preview. So blob data can not only display as image if possible, but also can display as some other types based on its content if possible, like movie, pdf, etc.
+- Data Editor, supports use filter when view views.
+
 5.6.9 - May 7, 2022
 - Supports SQLite version 3.38.5 (2022-05-06).
 
