@@ -36,8 +36,8 @@ macOS 10.15+ / [iOS 14.0+](iOS)
 
 - 檢視，編輯，新增和刪除資料。
 - 資料過濾器。
-- 以十六進位制編輯BLOB資料，如果可能，支援將其顯示為圖片。
-- 拷貝資料到CSV。
+- 以十六進位制編輯BLOB資料，如果可能，支援將其顯示為預覽。
+- 拷貝資料到CSV，JSON, Markdown。如果可能的話，還可以到Insert語句或者Update語句。
 
 *資料編輯器*
 ![](macOS/DataEditor.png)
@@ -61,9 +61,6 @@ macOS 10.15+ / [iOS 14.0+](iOS)
 *匯入文字*
 ![Import - Import from CSV Text](macOS/ImportFromCSV.png)
 
-**深色模式**
-- 在macOS 10.14+中支援深色模式。
-
 **資料庫統計**
 - 顯示錶數和表中的記錄數。
 - 顯示每個表的佔用空間，及每個表中資料佔用的空間和和索引佔用的空間。
@@ -82,6 +79,9 @@ macOS 10.15+ / [iOS 14.0+](iOS)
 *遠端連線*
 ![Open Remote Database](macOS/RemoteConnect.png)
 
+**深色模式**
+- 在macOS 10.14+中支援深色模式。
+
 **附加資料庫**
 - 無需任何程式碼，即可附加資料庫，幫您省下很多寫ATTACH DATABASE命令的時間。
 
@@ -98,17 +98,15 @@ macOS 10.15+ / [iOS 14.0+](iOS)
 *內部檢視器*
 ![Inside Explorer](macOS/InsideExplorer.png)
 
-**自動處理資料庫檔名或者路徑變化**
-- 比如，這使得SQLiteFlow對在iOS模擬器中的資料庫很友好。
+**訪問模擬器**
+- 支援訪問蘋果模擬器。這樣你在開發你們的App時，就可以更方便地開啟你們的App的Documents目錄了。
 
-**REGEXP運算子**
-- 當您在偏好設定中開啟‘REGEXP運算子’後，您就可以在資料編輯器或者SQL編輯器中使用REGEXP運算子了。
+**自動處理資料庫檔名或者路徑變化**
+- 經此獲益的一個有意思的事情是，這使得SQLiteFlow在對處理在iOS模擬器中的資料庫時顯得很友好。
 
 **資料庫加密**
 - 支援處理經SQLCipher庫加密的資料庫。
 
-**訪問模擬器**
-- 支援訪問蘋果模擬器。這樣使用者在開發他們的App時，就可以更方便地開啟他們App的Documents目錄了。
 
 **語言**
 - [English](/) \| [简体中文 (Chinese, Simplified)](/zh-Hans) \| 繁體中文 (Chinese, Traditional) \| [日本語 (Japanese)](/ja)

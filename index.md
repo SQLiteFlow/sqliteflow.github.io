@@ -36,8 +36,8 @@ Version 5.7.2 | Jun 2, 2022 | <a href="ReleaseNotes" target="_blank">Release Not
 
 - View, edit or add table data.
 - View table data with a convenient data filter.
-- Edit blob as hex, show blob as image if possible.
-- Copy data to CSV.
+- Edit blob data as hex or show it as preview if possible.
+- Copy data to CSV，JSON, Markdown, and to Insert Statement or Update Statement if possible.
 
 *Data Editor*
 ![](macOS/DataEditor.png)
@@ -61,9 +61,6 @@ Version 5.7.2 | Jun 2, 2022 | <a href="ReleaseNotes" target="_blank">Release Not
 *Import from CSV Text*
 ![Import - Import from CSV Text](macOS/ImportFromCSV.png)
 
-**Dark Mode**
-- Supports Dark Mode for macOS 10.14+.
-
 **Database Statistics**
 - Display table counts and each table's record count.
 - Display total size of each table, size of each table's content and size of each table's indexes.
@@ -82,8 +79,11 @@ Version 5.7.2 | Jun 2, 2022 | <a href="ReleaseNotes" target="_blank">Release Not
 *Remote Connect*
 ![Open Remote Database](macOS/RemoteConnect.png)
 
+**Dark Mode**
+- Supports Dark Mode for macOS 10.14+.
+
 **Attach Database**
-- Attach opened databases without any code. This is a very handy feature that could save lots of your time from writing ATTACH DATABASE commands.
+- Attach opened databases without any code. This is a very handy way to do attach database thing, and could save a lot of your time from writing ATTACH DATABASE commands if your business mode relies on it.
 
 *Attach Opened Databases*
 ![UI - Attach Database](macOS/AttachDatabase.png)
@@ -98,17 +98,14 @@ Version 5.7.2 | Jun 2, 2022 | <a href="ReleaseNotes" target="_blank">Release Not
 *Inside Explorer*
 ![Inside Explorer](macOS/InsideExplorer.png)
 
-**Handle Database File Name or Directory Changes**
-- For instance, this makes SQLiteFlow can work friendly with your SQLite databases in iOS simulator.
+**Access Simulator**
+- Supports access Apple simulator. So you can open your app's Documents directory more easily than before when developing your apps.
 
-**REGEXP operator**
-- Supports REGEXP operator for local databases when 'REGEXP operator' is enabled in Preferences.
+**Handle Database File Name or Directory Changes**
+- One of a cool thing that benefit from this feature is, this makes SQLiteFlow can work friendly with your SQLite databases in iOS simulator.
 
 **Database Encryption**
 - Supports handle encrypted SQLite databases which are encrypted by SQLCipher library.
-
-**Access Simulator**
-- Supports access Apple simulator. So users can open their app's Documents directory more easily when developing their apps.
 
 **Languages**
 - English \| [简体中文 (Chinese, Simplified)](/zh-Hans) \| [繁體中文 (Chinese, Traditional)](/zh-Hant) \| [日本語 (Japanese)](/ja)

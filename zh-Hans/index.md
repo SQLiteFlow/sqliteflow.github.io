@@ -36,8 +36,8 @@ macOS 10.15+ / [iOS 14.0+](iOS)
 
 - 查看，编辑，添加和删除数据。
 - 数据过滤器。
-- 以十六进制编辑BLOB数据，如果可能，支持将其显示为图片。
-- 拷贝数据到CSV。
+- 以十六进制编辑BLOB数据，如果可能，支持将其显示为预览。
+- 拷贝数据到CSV，JSON, Markdown。如果可能的话，还可以到Insert语句或者Update语句。
 
 *数据编辑器*
 ![](macOS/DataEditor.png)
@@ -61,9 +61,6 @@ macOS 10.15+ / [iOS 14.0+](iOS)
 *导入文本*
 ![Import - Import from CSV Text](macOS/ImportFromCSV.png)
 
-**深色模式**
-- 在macOS 10.14+中支持深色模式。
-
 **数据库统计**
 - 显示表数和表中的记录数。
 - 显示每个表的占用空间，及每个表中数据占用的空间和和索引占用的空间。
@@ -82,6 +79,9 @@ macOS 10.15+ / [iOS 14.0+](iOS)
 *远程连接*
 ![Open Remote Database](macOS/RemoteConnect.png)
 
+**深色模式**
+- 在macOS 10.14+中支持深色模式。
+
 **附加数据库**
 - 无需任何代码，即可附加数据库，帮您省下很多写ATTACH DATABASE命令的时间。
 
@@ -98,17 +98,14 @@ macOS 10.15+ / [iOS 14.0+](iOS)
 *内部查看器*
 ![Inside Explorer](macOS/InsideExplorer.png)
 
-**自动处理数据库文件名或者路径变化**
-- 比如，这使得SQLiteFlow对在iOS模拟器中的数据库很友好。
+**访问模拟器**
+- 支持访问苹果模拟器。这样你在开发你们的App时，就可以更方便地打开你们的App的Documents目录了。
 
-**REGEXP运算符**
-- 当您在偏好设置中开启‘REGEXP运算符’后，您就可以在数据编辑器或者SQL编辑器中使用REGEXP运算符了。
+**自动处理数据库文件名或者路径变化**
+- 经此获益的一个有意思的事情是，这使得SQLiteFlow在对处理在iOS模拟器中的数据库时显得很友好。
 
 **数据库加密**
 - 支持处理经SQLCipher库加密的数据库。
-
-**访问模拟器**
-- 支持访问苹果模拟器。这样用户在开发他们的App时，就可以更方便地打开他们App的Documents目录了。
 
 **语言**
 - [English](/) \| 简体中文 (Chinese, Simplified) \| [繁體中文 (Chinese, Traditional)](/zh-Hant) \| [日本語 (Japanese)](/ja)
