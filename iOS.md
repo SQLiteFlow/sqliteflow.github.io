@@ -14,8 +14,9 @@ SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reli
 Version 5.7.1 | Jun 1, 2022 | <a href="iOS/ReleaseNotes" target="_blank">Release Notes</a>
 <br/><br/>[![Download](iOS/DownloadOnTheAppStore.svg)](https://itunes.apple.com/app/id1406266008)
 
+
 ## Buy
-First of all, SQLiteFlow is an app which contains only one purchase schema, that is, **one-time purchase then own it life time**. 
+First of all, the purchase schema that SQLiteFlow uses is **one-time purchase then own it life time**. 
 
 Please note that there's **no subscription purchase schema in our app**. It's kind of very annoying that people immediately assume that there is and give us a one-star along with some very unpleasant words in App Store.
 

@@ -16,7 +16,7 @@ Version 5.7.3 | Jun 10, 2022 | <a href="ReleaseNotes" target="_blank">Release No
 
 
 ## Buy
-First of all, SQLiteFlow is an app which contains only one purchase schema, that is, **one-time purchase then own it life time**. 
+First of all, the purchase schema that SQLiteFlow uses is **one-time purchase then own it life time**. 
 
 Please note that there's **no subscription purchase schema in our app**. It's kind of very annoying that people immediately assume that there is and give us a one-star along with some very unpleasant words in App Store.
 
