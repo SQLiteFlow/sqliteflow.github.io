@@ -17,6 +17,7 @@ Version 5.7.3 | Jun 10, 2022 | <a href="ReleaseNotes" target="_blank">Release No
 
 ## Buy
 The purchase schema is **one-time purchase then own it life time**. 
+
 There's **no subscription purchase schema in our app**.
 
 Here's how purchasing work in SQLiteFlow.
