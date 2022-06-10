@@ -22,7 +22,7 @@ There's **no subscription purchase schema in our app**.
 
 Here's how purchasing work in SQLiteFlow.
 1. **Pay $0 to get a one-time in-app purchase which is a 2-week trial license.**
-After trial ends, SQLiteFlow will be locked and you will no longer have permission to use this app unless you pay the life time license “Full App”. And no automatically renews would happen because this is not a subscription.
+After trial ends, SQLiteFlow will be locked and you will no longer have permission to use this app unless you pay the life time license “Full App”. And no automatically renews would happen because there's no subscription.
 2. **Pay $xxx to get a one-time in-app purchase "Full App" which is a life time license.** After you get the life time license, you own the app life time.
 3. If you still has any questions about it, please contact us through <a href="https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues" target="_blank">creating an issue</a> instead of giving us a one-star instantly in App Store because you think the app contains subscription (which doesn’t), we're really appreciate it.
 
