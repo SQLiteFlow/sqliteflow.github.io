@@ -16,15 +16,14 @@ Version 5.7.1 | Jun 1, 2022 | <a href="iOS/ReleaseNotes" target="_blank">Release
 
 
 ## Buy
-First of all, the purchase schema that SQLiteFlow uses is **one-time purchase then own it life time**. 
+The purchase schema is **one-time purchase then own it life time**. 
+There's **no subscription purchase schema in our app**.
 
-Please note that there's **no subscription purchase schema in our app**. It's kind of very annoying that people immediately assume that there is and give us a one-star along with some very unpleasant words in App Store.
-
-Here's how purchase work in SQLiteFlow.
-1. **Pay $0 to get a one-time in-app purchase "2-week Trial" which is a 2-week trial license.**
-After trial ends, no automatically renews would happen, however SQLiteFlow will be locked and you will no longer have permission to use this app unless:
-2. **Pay $xxx to get a one-time in-app purchase "Full App" which is a life time license.** After you get the left time license, you own the app life time.
-3. If you still has any question about it, please contact us through <a href="https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues" target="_blank">creating an issue</a> instead of giving us a one-star instantly in App Store, we're really appreciate it.
+Here's how purchasing work in SQLiteFlow.
+1. **Pay $0 to get a one-time in-app purchase which is a 2-week trial license.**
+After trial ends, SQLiteFlow will be locked and you will no longer have permission to use this app unless you pay the life time license “Full App”. And no automatically renews would happen because this is not a subscription.
+2. **Pay $xxx to get a one-time in-app purchase "Full App" which is a life time license.** After you get the life time license, you own the app life time.
+3. If you still has any questions about it, please contact us through <a href="https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues" target="_blank">creating an issue</a> instead of giving us a one-star instantly in App Store because you think the app contains subscription (which doesn’t), we're really appreciate it.
 
 ## Features
 
