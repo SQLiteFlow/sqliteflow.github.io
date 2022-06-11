@@ -14,6 +14,12 @@ macOS 10.15+ / [iOS 14.0+](iOS)
 版本 5.7.3 | 2022-06-10 | <a href="ReleaseNotes" target="_blank">更新说明</a>
 <br/><br/>[![Download](macOS/DownloadOnTheMacAppStore.svg)](macappstores://itunes.apple.com/app/id1378587993)
 
+
+## 购买
+- 购买“两周免费试用”内购买项目可以获得两周试用资格（需要登陆苹果账号）。这不是订阅，所以试用结束后不会自动扣款。
+- 试用时您可以使用本应用的所有功能。
+- 试用结束后，您将无法再继续使用本应用，您需要购买“完整应用”一次性内购来继续使用它。
+
 ## 功能
 
 **SQL编辑器**

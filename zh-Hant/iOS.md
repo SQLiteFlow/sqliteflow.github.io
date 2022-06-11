@@ -14,6 +14,12 @@ SQLiteFlow是為Mac和iOS平臺開發的直觀，穩定和易用的SQLite編輯�
 版本 5.7.1 | 2022-06-01 | <a href="/zh-Hant/iOS/ReleaseNotes" target="_blank">更新說明</a>
 <br/><br/>[![Download](iOS/DownloadOnTheAppStore.svg)](https://itunes.apple.com/app/id1406266008)
 
+
+## 購買
+- 購買「兩週免費試用」內購買專案可以獲得兩週試用資格（需要登陸蘋果賬號）。這不是訂閱，所以試用結束後不會自動扣款。
+- 試用時您可以使用本應用的所有功能。
+- 試用結束後，您將無法再繼續使用本應用，您需要購買「完整應用」一次性內購來繼續使用它。
+
 ## 功能
 
 **瀏覽**
