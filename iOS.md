@@ -15,11 +15,6 @@ Version 5.7.2 | Jun 11, 2022 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 <br/><br/>[![Download](iOS/DownloadOnTheAppStore.svg)](https://itunes.apple.com/app/id1406266008)
 
 
-## Purchase
-- Purchase the "2-week Trial" in-app purchase to get a 2-week trial license for free (Apple account login required). This is not a subscription, so it won't automatically renew after the trial.
-- You can enjoy all features of the app during the trial.
-- After the trial, the app will be locked and can no longer be used. If you like the app, you can purchase the “Full App” one-time in-app purchase which is a lifetime license to continue using the app.
-
 ## Features
 
 **Browse**
