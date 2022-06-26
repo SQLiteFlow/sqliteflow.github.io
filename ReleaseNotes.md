@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+5.8.1 - Jun 26, 2022
+- Add a simple and useful utility JSON Formatter as a summer gift to all of you. This is the initial version of this utility, and you can access it through "Main Menu - Tools" or  "Customize Toolbar". If you have any questions or advices about it, you are welcome to contact us.
+- Supports SQLite version 3.39.0 (2022-06-25).
+
 5.7.4 - Jun 11, 2022
 - Bug fixes and stability improvements.
 
