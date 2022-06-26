@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+5.8.0 - 2022年6月26日
+- 問題修復與穩定性改善。
+
 5.7.2 - 2022年6月11日
 - 問題修復與穩定性改善。
 
