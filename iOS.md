@@ -49,7 +49,7 @@ Version 5.8.0 | Jun 26, 2022 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 - View, edit or add table data.
 - View table data with a convenient data filter.
 - Sort records by tapping on column title.
-- Edit blob as hex, show blob as image if possible.
+- Edit blob data as hex or show it as preview if possible.
 
 *Data Editor*
 <br/>
@@ -100,13 +100,18 @@ Version 5.8.0 | Jun 26, 2022 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 <img src="iOS/ImportCSV.png" width="320">
 
 **Export**
-- Supports export table/view data and query result to CSV format.
+• In Data Editor or Query Results, supports export data to CSV, JSON or Markdown.
+• In Data Editor, supports export data to Insert Statement or Update Statement if possible.
 
 **Multiple Windows**
 - Supports multiple windows for iPadOS 13.
 
 **Dark Mode**
 - Supports dark mode for iOS 13.
+
+**Shortcuts**
+- Supports "Run Query" action.
+- Supports "Import CSV" action.
 
 **Languages**
 - English \| [简体中文 (Chinese, Simplified)](/zh-Hans/iOS) \| [繁體中文 (Chinese, Traditional)](/zh-Hant/iOS) \| [日本語 (Japanese)](/ja/iOS)

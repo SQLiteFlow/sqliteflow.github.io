@@ -62,6 +62,10 @@ Version 5.8.1 | Jun 26, 2022 | <a href="ReleaseNotes" target="_blank">Release No
 *Import from CSV Text*
 ![Import - Import from CSV Text](macOS/ImportFromCSV.png)
 
+**Export**
+- In Data Editor or Query Results, supports export data to CSV, JSON or Markdown.
+- In Data Editor, supports export data to Insert Statement or Update Statement if possible.
+
 **Database Statistics**
 - Display table counts and each table's record count.
 - Display total size of each table, size of each table's content and size of each table's indexes.
@@ -107,6 +111,10 @@ Version 5.8.1 | Jun 26, 2022 | <a href="ReleaseNotes" target="_blank">Release No
 
 **Database Encryption**
 - Supports handle encrypted SQLite databases which are encrypted by SQLCipher library.
+
+**Shortcuts**
+- Supports "Run Query" action.
+- Supports "Import CSV" action.
 
 **Languages**
 - English \| [简体中文 (Chinese, Simplified)](/zh-Hans) \| [繁體中文 (Chinese, Traditional)](/zh-Hant) \| [日本語 (Japanese)](/ja)

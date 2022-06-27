@@ -108,6 +108,10 @@ macOS 10.15+ / [iOS 14.0+](iOS)
 **数据库加密**
 - 支持处理经SQLCipher库加密的数据库。
 
+**捷径**
+- 支持“执行查询”操作。
+- 支持“导入CSV”操作。
+
 **语言**
 - [English](/) \| 简体中文 (Chinese, Simplified) \| [繁體中文 (Chinese, Traditional)](/zh-Hant) \| [日本語 (Japanese)](/ja)
 

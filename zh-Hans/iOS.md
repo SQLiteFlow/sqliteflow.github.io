@@ -49,7 +49,7 @@ SQLiteFlow是为Mac和iOS平台开发的直观，稳定和易用的SQLite编辑�
 - 查看，编辑，添加和删除数据。
 - 数据过滤器。
 - 点击标题行排序
-- 以十六进制编辑BLOB数据，如果可能，支持将其显示为图片。
+- 以十六进制编辑BLOB数据，如果可能，支持将其显示为预览。
 
 *数据编辑器*
 <br/>
@@ -98,13 +98,18 @@ SQLiteFlow是为Mac和iOS平台开发的直观，稳定和易用的SQLite编辑�
 <img src="iOS/ImportCSV.png" width="320">
 
 **导出**
-- 支持导出表数据、视图数据和查询结果到CSV。
+- 在数据编辑器或者查询结果中，支持导出数据到CSV，JSON, Markdown。
+- 在数据编辑器，如果可能的话支持导出数据到Insert语句或者Update语句。
 
 **多窗口**
 - 为iPadOS 13支持多窗口。
 
 **深色模式**
 - 在iOS 13中支持深色模式。
+
+**捷径**
+- 支持“执行查询”操作。
+- 支持“导入CSV”操作。
 
 **语言**
 - [English](/) \| 简体中文 (Chinese, Simplified) \| [繁體中文 (Chinese, Traditional)](/zh-Hant/iOS) \| [日本語 (Japanese)](/ja/iOS)
