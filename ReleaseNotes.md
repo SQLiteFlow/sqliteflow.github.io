@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+5.8.2 - Jul 19, 2022
+- Import CSV, supports transpose rows and columns when import.
+- Import CSV, if “First Line in CSV is Header” is enabled, and is set to import to an existing table, then if the sequence of the header fields is different from the sequence of the table fields, you can now import it correctly.
+- Import CSV, if “First Line in CSV is Header” is enabled, and is set to import to an existing table, then if the header fields is a subset of the table fields, you can now import it correctly if database constraints allows.
+
 5.8.1 - Jun 26, 2022
 - Add a simple and useful utility JSON Formatter as a summer gift to all of you. This is the initial version of this utility, and you can access it through "Main Menu - Tools" or  "Customize Toolbar". If you have any questions or advices about it, you are welcome to contact us.
 - Supports SQLite version 3.39.0 (2022-06-25).
