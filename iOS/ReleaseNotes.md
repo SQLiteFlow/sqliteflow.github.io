@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+5.8.2 - Jul 19, 2022
+- Import CSV, supports transpose rows and columns when import.
+- Import CSV, if “First Line in CSV is Header” is enabled, and is set to import to an existing table, then if the sequence of the header fields is different from the sequence of the table fields, you can now import it correctly.
+- Import CSV, if “First Line in CSV is Header” is enabled, and is set to import to an existing table, then if the header fields is a subset of the table fields, you can now import it correctly if database constraints allows.
+
 5.8.0 - Jun 26, 2022
 - Bug fixes and stability improvements.
 
