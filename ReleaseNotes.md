@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+5.8.3 - Aug 12, 2022
+- Supports SQLite version 3.39.2 (2022-07-21).
+- Update SQLCipher library to version 4.5.2.
+
 5.8.2 - Jul 19, 2022
 - Import CSV, supports transpose rows and columns when import.
 - Import CSV, if “First Line in CSV is Header” is enabled, and is set to import to an existing table, then if the sequence of the header fields is different from the sequence of the table fields, you can now import it correctly.
