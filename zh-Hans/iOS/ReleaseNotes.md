@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+5.8.3 - 2022年9月20日
+- 问题修复与稳定性改善。
+
 5.8.2 - 2022年7月19日
 - 导入CSV，支持导入时行列转置。
 - 导入CSV，如果“第一行为标题行”并且设置了导入到现存表，如果标题行的字段顺序和表的字段顺序不同，那么现在已支持正确导入。
