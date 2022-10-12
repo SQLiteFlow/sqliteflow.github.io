@@ -11,7 +11,7 @@ SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reli
 macOS 10.15+ / [iOS 14.0+](iOS)
 
 ## Download
-Version 5.8.4 | Sep 28, 2022 | <a href="ReleaseNotes" target="_blank">Release Notes</a>
+Version 5.8.5 | Oct 2, 2022 | <a href="ReleaseNotes" target="_blank">Release Notes</a>
 <br/><br/>[![Download](macOS/DownloadOnTheMacAppStore.svg)](macappstores://itunes.apple.com/app/id1378587993)
 
 
@@ -23,14 +23,14 @@ Version 5.8.4 | Sep 28, 2022 | <a href="ReleaseNotes" target="_blank">Release No
 - Customize syntax highlighting.
 - SQL auto-completion.
 - Format query.
-- Copy query with custom style.
+- Copy query as code.
 - Paste recent query sessions.
 - Explain query.
 
 *Query Editor - Multi-query Execution*
 ![Editor](macOS/Editor.png)
 
-*Query Editor - Copy Query with Custom Style and It's Setting*
+*Query Editor - Copy Query as Code and It's Setting*
 ![Editor - CopyWithCustomStyle](macOS/CopyWithCustomStyle.png)
 
 **Data Editor**
