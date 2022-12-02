@@ -4,6 +4,12 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新说明。
 ---
 
+5.8.6 - 2022年11月1日
+- 标签栏标题改进。
+- 修复了一个某些时候需要额外按下Shift键才能正常工作的快捷键问题。
+- 支持SQLite version 3.40.0 (2022-11-16).
+- 其它问题修复与稳定性改善。
+
 5.8.5 - 2022年10月2日
 - 支持SQLite version 3.39.4 (2022-09-29)。
 

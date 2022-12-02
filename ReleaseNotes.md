@@ -4,6 +4,12 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+5.8.6 - Dec 1, 2022
+- Enhancement to the tab bar title.
+- Fix an hotkey issue which may cause some hotkey require unnecessary additional Shift modifier.
+- Supports SQLite version 3.40.0 (2022-11-16).
+- Additional bug fixes and stability improvements.
+
 5.8.5 - Oct 2, 2022
 - Supports SQLite version 3.39.4 (2022-09-29).
 
