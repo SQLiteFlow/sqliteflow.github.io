@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+5.8.6 - 2022年12月11日
+- クエリ エディター。テキストの検索をサポートします。
+- 追加のバグ修正と安定性の向上。
+
 5.8.5 - 2022年10月26日
 - バグ修正と安定性の向上。
 

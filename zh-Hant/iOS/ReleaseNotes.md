@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+5.8.6 - 2022年12月11日
+- 查詢編輯器。支持查找文本。需要iOS 16.0+或者iPadOS 16.0+支持。
+- 其它問題修復與穩定性改善。
+
 5.8.5 - 2022年10月26日
 - 問題修復與穩定性改善。
 
