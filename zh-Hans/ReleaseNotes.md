@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新说明。
 ---
 
+5.9.2 - 2023年1月26日
+- 数据编辑器，支持显示16字节BLOB为UUID字符串。您可以在“设置” - “数据编辑器”里开启它。
+
 5.9.1 - 2023年1月9日
 - 支持SQLite version 3.40.1 (2022-12-28)。
 - 其它问题修复与稳定性改善。
