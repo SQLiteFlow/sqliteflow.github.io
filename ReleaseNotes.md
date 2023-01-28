@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+5.9.3 - Jan 28, 2023
+- Bug fixes and stability improvements.
+
 5.9.2 - Jan 26, 2023
 - Data Editor, supports show 16 bytes BLOB as UUID string. You can go to Settings - Data Editor to enable it.
 
