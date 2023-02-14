@@ -4,8 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
-5.9.5 - 2023年2月14日
-- LLDB co-worker. Add two LLDB commands sfopen and sfsave. Go to Settings - LLDB Co-worker to check how to set it up.
+5.9.6 - 2023年2月14日
+- LLDB Co-worker。sfopenコマンドをサポート。デバッグされたデバイスに元々あった一時ローカルデータベースのコピーを開くことができます。
+- LLDB Co-worker。sfsaveコマンドをサポート。一時ローカルデータベース(元々sfopenコマンドで作成されたもの)をデバッグされたデバイスにコピーできます。
+設定-「LLDB Co-worker」に移動して、設定方法を確認します。
 
 5.9.3 - 2023年1月28日
 - バグ修正と安定性の向上。

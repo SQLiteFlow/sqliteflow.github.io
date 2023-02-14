@@ -4,8 +4,10 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新說明。
 ---
 
-5.9.5 - 2023年2月14日
-- LLDB協作。添加兩個LLDB命令sfopen和sfsave。在設置-LLDB協作中查看如何安裝這兩個命令。
+5.9.6 - 2023年2月14日
+- LLDB協作，支持sfopen命令。讓您能夠打開一個從被調試設備拷貝到本地的臨時數據庫。
+- LLDB協作，支持sfsave命令。 讓您能夠拷貝一個臨時數據庫（最初被sfopen命令創建）到被調試設備。
+在設置-LLDB協作中查看如何安裝這兩個命令。
 
 5.9.3 - 2023年1月28日
 - 問題修復與穩定性改善。
