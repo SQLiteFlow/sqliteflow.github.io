@@ -112,6 +112,10 @@ macOS 11.0+ / [iOS 14.0+](iOS)
 - 支持“执行查询”操作。
 - 支持“导入CSV”操作。
 
+**LLDB协作**
+- 支持sfopen命令。让您能够打开一个从被调试设备拷贝到本地的临时数据库。
+- 支持sfsave命令。 让您能够拷贝一个临时数据库（最初被sfopen命令创建）到被调试设备。
+
 **语言**
 - [English](/) \| 简体中文 (Chinese, Simplified) \| [繁體中文 (Chinese, Traditional)](/zh-Hant) \| [日本語 (Japanese)](/ja)
 

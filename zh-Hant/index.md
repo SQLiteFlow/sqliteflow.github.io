@@ -112,6 +112,10 @@ macOS 11.0+ / [iOS 14.0+](iOS)
 - 支援“執行查詢”操作。
 - 支援“匯入CSV”操作。
 
+**LLDB協作**
+- 支持sfopen命令。讓您能夠打開一個從被調試設備拷貝到本地的臨時數據庫。
+- 支持sfsave命令。 讓您能夠拷貝一個臨時數據庫（最初被sfopen命令創建）到被調試設備。
+
 **語言**
 - [English](/) \| [简体中文 (Chinese, Simplified)](/zh-Hans) \| 繁體中文 (Chinese, Traditional) \| [日本語 (Japanese)](/ja)
 

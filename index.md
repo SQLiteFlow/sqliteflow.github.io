@@ -116,6 +116,10 @@ Version 5.9.6 | Feb 14, 2023 | <a href="ReleaseNotes" target="_blank">Release No
 - Supports "Run Query" action.
 - Supports "Import CSV" action.
 
+**LLDB Co-worker**
+- Supports sfopen command. Let you open a copy of a temporary local database that originally in debugged device.
+- Supports sfsave command. Let you copy the temporary local database (that originally created by sfopen command) to debugged device.
+
 **Languages**
 - English \| [简体中文 (Chinese, Simplified)](/zh-Hans) \| [繁體中文 (Chinese, Traditional)](/zh-Hant) \| [日本語 (Japanese)](/ja)
 
