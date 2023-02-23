@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新说明。
 ---
 
+5.9.7 - 2023年2月23日
+- 查询编辑器。如果有多行被选中，支持Tab键来增加每行缩进。
+- 查询编辑器。支持Shift-Tab来减少每行缩进。
+- 支持SQLite version 3.41.0 (2023-02-21)。
+
 5.9.6 - 2023年2月14日
 - LLDB协作，支持sfopen命令。让您能够打开一个从被调试设备拷贝到本地的临时数据库。
 - LLDB协作，支持sfsave命令。 让您能够拷贝一个临时数据库（最初被sfopen命令创建）到被调试设备。

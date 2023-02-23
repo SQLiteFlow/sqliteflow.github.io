@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+5.9.7 - Feb 23, 2023
+- Query Editor. Supports press Tab key to insert multi line indent if multi lines have been selected.
+- Query Editor. Supports press Shift-Tab key to remove selected lines indent.
+- Supports SQLite version 3.41.0 (2023-02-21).
+
 5.9.6 - Feb 14, 2023
 - LLDB Co-worker, supports sfopen command. Let you open a copy of a temporary local database that originally in debugged device.
 - LLDB Co-worker, supports sfsave command. Let you copy the temporary local database (that originally created by sfopen command) to debugged device.
