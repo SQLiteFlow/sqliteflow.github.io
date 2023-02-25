@@ -4,7 +4,7 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新說明。
 ---
 
-5.9.7 - 2023年2月23日
+5.9.8 - 2023年2月25日
 - 查詢編輯器。如果有多行被選中，支持Tab鍵來增加每行縮進。
 - 查詢編輯器。支持Shift-Tab來減少每行縮進。
 - 支持SQLite version 3.41.0 (2023-02-21)。

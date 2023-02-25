@@ -4,7 +4,7 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
-5.9.7 - 2023年2月23日
+5.9.8 - 2023年2月25日
 - クエリ エディター。複数行が選択されている場合に、Tab キーを押して複数行のインデントを挿入できます。
 - クエリ エディター。Shift-Tabキーを押して、選択した行のインデントを削除することをサポートします。
 - SQLite version 3.41.0 (2023-02-21) をサポート。

@@ -4,7 +4,7 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
-5.9.7 - Feb 23, 2023
+5.9.8 - Feb 25, 2023
 - Query Editor. Supports press Tab key to insert multi line indent if multi lines have been selected.
 - Query Editor. Supports press Shift-Tab key to remove selected lines indent.
 - Supports SQLite version 3.41.0 (2023-02-21).
