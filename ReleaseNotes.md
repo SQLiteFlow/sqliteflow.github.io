@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.0.0 - Mar 6, 2023
+- Bug fixes and stability improvements.
+
 5.9.9 - Mar 2, 2023
 - Query Editor, supports select the database that run query against.
 

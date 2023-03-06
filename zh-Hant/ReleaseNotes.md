@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新說明。
 ---
 
+6.0.0 - 2023年3月6日
+- 問題修復與穩定性改善。
+
 5.9.9 - 2023年3月2日
 - 查詢編輯器，支持選擇數據庫來執行查詢。
 

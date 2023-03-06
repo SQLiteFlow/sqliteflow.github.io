@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.0.0 - 2023年3月6日
+- バグ修正と安定性の向上。
+
 5.9.9 - 2023年3月2日
 - クエリエディタは、クエリを実行するデータベースの選択をサポートします。
 
