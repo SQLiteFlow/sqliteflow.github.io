@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.0.1 - Mar 22, 2023
+- Supports SQLite version 3.41.2 (2022-03-22).
+
 6.0.0 - Mar 6, 2023
 - Bug fixes and stability improvements.
 
