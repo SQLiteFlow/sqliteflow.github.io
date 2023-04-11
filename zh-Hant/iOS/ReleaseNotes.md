@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.0.0 - 2023年4月11日
+- 數據庫對比。支持使用主鍵來代替RowID來進行配對對比，現在這個選項默認爲打開。
+- 捷徑。執行查詢支持將查詢消息從結果中排除。
+- 此版本的SQLiteFlow現在需要iOS 15.0+支援。
+
 5.8.6 - 2022年12月11日
 - 查詢編輯器。支持查找文本。需要iOS 16.0+或者iPadOS 16.0+支持。
 - 其它問題修復與穩定性改善。

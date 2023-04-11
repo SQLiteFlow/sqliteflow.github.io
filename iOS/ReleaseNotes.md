@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.0.0 - Apr 11, 2023
+- Database Diff. Supports use primary key instead of RowID to pair to diff, and this option is enabled by default now.
+- Shortcuts. The Run Query action now offers an option to exclude query message in result.
+- This version of SQLiteFlow now requires iOS 15.0 or later.
+
 5.8.6 - Dec 11, 2022
 - Query Editor. Supports find text. Requires iOS 16.0 or iPadOS 16.0.
 - Table Schema. Add extra space at top to make context info more clearer. And the extra space is also a trick to avoid back button be tapped by accident. . Requires iOS 15.0 or iPadOS 15.0.
