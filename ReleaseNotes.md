@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.0.2 - Apr 11, 2023
+- Database Diff. Supports use primary key instead of RowID to pair to diff, and this option is enabled by default now.
+- Shortcuts. The Run Query action now offers an option to exclude query message in result.
+
 6.0.1 - Mar 22, 2023
 - Supports SQLite version 3.41.2 (2022-03-22).
 
