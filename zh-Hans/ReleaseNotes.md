@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新说明。
 ---
 
+6.0.3 - 2023年5月17日
+- 支持 SQLite version 3.42.0 (2023-05-16)。
+- 更新SQLCipher库版本到4.5.4。
+
 6.0.2 - 2023年4月11日
 - 数据库对比。支持使用主键来代替RowID来进行配对对比，现在这个选项默认为打开。
 - 捷径。执行查询支持将查询消息从结果中排除。
