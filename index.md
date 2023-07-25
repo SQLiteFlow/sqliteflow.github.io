@@ -126,4 +126,3 @@ Version 6.0.3 | May 17, 2023 | <a href="ReleaseNotes" target="_blank">Release No
 ## Support or Contact
 Have any questions or feature requests? Please feel free to <a href="https://github.com/SQLiteFlow/SQLiteFlow-Issues/issues" target="_blank">create an issue</a>.
 
-
