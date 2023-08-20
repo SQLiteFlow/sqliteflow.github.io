@@ -116,6 +116,9 @@ Version 6.0.4 | Aug 21, 2023 | <a href="ReleaseNotes" target="_blank">Release No
 - Supports "Run Query" action.
 - Supports "Import CSV" action.
 
+**Load Extension**
+- Supports SQLite load extension.
+
 **LLDB Co-worker**
 - Supports sfopen command. Let you open a copy of a temporary local database that originally in debugged device.
 - Supports sfsave command. Let you copy the temporary local database (that originally created by sfopen command) to debugged device.
