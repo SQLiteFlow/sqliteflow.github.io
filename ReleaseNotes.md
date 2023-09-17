@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.0.7 - Sep 17, 2023
+- Supports persist opened databases across app launches. You can go to Settings - General to enable it.
+- Additional bug fixes and stability improvements.
+
 6.0.6 - Sep 12, 2023
 - Supports SQLite version 3.43.1 (2023-09-11).
 - Update SQLCipher library to version 4.5.5.
