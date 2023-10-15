@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.1.0 - 2023年10月15日
+- 修复了针对最新版本iOS的很多兼容性问题。
+- 此版本的SQLiteFlow现在需要iOS 16.1+支持。
+
 6.0.0 - 2023年4月11日
 - 数据库对比。支持使用主键来代替RowID来进行配对对比，现在这个选项默认为打开。
 - 捷径。执行查询支持将查询消息从结果中排除。
