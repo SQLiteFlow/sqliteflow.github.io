@@ -57,7 +57,8 @@ Version 6.2.0 | Nov 4, 2023 | <a href="ReleaseNotes" target="_blank">Release Not
 ![Alter Table - Preview](macOS/AlterPreview.png)
 
 **Import**
-- Supports import CSV data.
+- Supports import CSV data to a table.
+- Supports import JSON data to a table.
 
 *Import from CSV Text*
 ![Import - Import from CSV Text](macOS/ImportFromCSV.png)
@@ -115,6 +116,7 @@ Version 6.2.0 | Nov 4, 2023 | <a href="ReleaseNotes" target="_blank">Release Not
 **Shortcuts**
 - Supports "Run Query" action.
 - Supports "Import CSV" action.
+- Supports "Import JSON" action. (Requires macOS 14.0 or later.)
 
 **Load Extension**
 - Supports SQLite load extension.

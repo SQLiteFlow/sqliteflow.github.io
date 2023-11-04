@@ -58,6 +58,7 @@ macOS 12.0+ / [iOS 16.1+](iOS)
 
 **导入**
 - 支持导入CSV数据。
+- 支持导入JSON数据。
 
 *导入文本*
 ![Import - Import from CSV Text](macOS/ImportFromCSV.png)
@@ -111,6 +112,7 @@ macOS 12.0+ / [iOS 16.1+](iOS)
 **捷径**
 - 支持“执行查询”操作。
 - 支持“导入CSV”操作。
+- 支持“导入JSON”操作。(需要macOS 14.0+支持。)
 
 **加载拓展**
 - 支持加载SQLite拓展。

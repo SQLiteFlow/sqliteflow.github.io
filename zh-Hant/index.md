@@ -58,6 +58,7 @@ macOS 12.0+ / [iOS 16.1+](iOS)
 
 **匯入**
 - 支援匯入CSV資料。
+- 支援匯入JSON資料。
 
 *匯入文字*
 ![Import - Import from CSV Text](macOS/ImportFromCSV.png)
@@ -109,8 +110,9 @@ macOS 12.0+ / [iOS 16.1+](iOS)
 - 支援處理經SQLCipher庫加密的資料庫。
 
 **捷徑**
-- 支援“執行查詢”操作。
-- 支援“匯入CSV”操作。
+- 支援「執行查詢」操作。
+- 支援「匯入CSV」操作。
+- 支援「匯入JSON」操作。(需要macOS 14.0+支持。)
 
 **加載拓展**
 - 支持加載SQLite拓展。

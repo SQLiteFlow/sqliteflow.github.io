@@ -58,6 +58,7 @@ macOS 12.0+ / [iOS 16.1+](iOS)
 
 **インポート**
 - CSV データのインポートをサポートします。
+- JSON データのインポートをサポートします。
 
 *CSV テキストからインポート*
 ![Import - Import from CSV Text](macOS/ImportFromCSV.png)
@@ -114,6 +115,7 @@ macOS 12.0+ / [iOS 16.1+](iOS)
 **ショートカット**
 - 「クエリの実行」アクションをサポートします。
 - 「CSV のインポート」アクションをサポートします。
+- 「JSON のインポート」アクションをサポートします。
 
 **Load Extension**
 - SQLite ロード拡張をサポートします。
