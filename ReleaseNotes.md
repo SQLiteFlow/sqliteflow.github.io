@@ -4,6 +4,16 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.2.0 - Nov 4, 2023
+- Supports SQLite version 3.44.0 (2023-11-01).
+- Supports import JSON to a table.
+- Shortcuts. Supports import JSON to a table. (If import from a JSON file, the file cannot have “.json” file extension due to a bug of the Shortcuts app). Requires macOS 14.0 or later.
+- Table Schema, Data Editor, Statistics, Font and Color Settings, Load Extension Settings. Give “+’ button a hotkey ⇧⌘N. Give “-“ button a hotkey ⌫ (Delete).
+- Database List. Supports ⌥-Double Click a table name/view name or ⌥-Return a table name/view name to open Table Schema/Alter View page.
+- Access Simulator. Fix an issue that may cause some simulators not showing up.
+- This update may reset your toolbar settings due to a compatibility issue.
+- This version of SQLiteFlow requires macOS 12.0 or later.
+
 6.1.0 - Oct 15, 2023
 - Supports SQLite version 3.43.2 (2023-10-10).
 

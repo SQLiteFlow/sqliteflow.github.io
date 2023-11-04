@@ -8,10 +8,10 @@ description: Mac 用の SQLite エディタ
 SQLiteFlowは、直感的で安定した信頼性の高いMacとiOS用のSQLiteエディタです。
 
 ## プラットフォーム
-macOS 11.0+ / [iOS 16.1+](iOS)
+macOS 12.0+ / [iOS 16.1+](iOS)
 
 ## ダウンロード
-バージョン 6.1.0 | 2023-10-15 | <a href="ReleaseNotes" target="_blank">リリースノート</a>
+バージョン 6.2.0 | 2023-11-04 | <a href="ReleaseNotes" target="_blank">リリースノート</a>
 <br/><br/>[![Download](macOS/DownloadOnTheMacAppStore.svg)](macappstores://itunes.apple.com/app/id1378587993)
 
 
