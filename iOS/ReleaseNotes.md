@@ -4,6 +4,12 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.2.0 - Nov 6, 2023
+- Supports import JSON to a table.
+- Shortcuts. Supports import JSON to a table. Requires iOS 16.4 or later.
+- Allows user changing file extension in Browse.
+- UI enhancement.
+
 6.1.0 - Oct 15, 2023
 - Fix a bunch of compatible issues with the latest version of iOS.
 - This version of SQLiteFlow now requires iOS 16.1 or later.

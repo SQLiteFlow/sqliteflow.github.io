@@ -4,6 +4,12 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.2.0 - 2023年11月6日
+- 支持导入JSON到表。
+- 捷径。支持导入JSON到表。需要iOS 16.4+支持。
+- UI改进。
+- 支持在“浏览”中修改文件拓展名。
+
 6.1.0 - 2023年10月15日
 - 修复了针对最新版本iOS的很多兼容性问题。
 - 此版本的SQLiteFlow现在需要iOS 16.1+支持。
