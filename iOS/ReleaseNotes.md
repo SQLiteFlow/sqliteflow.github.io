@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.2.1 - Nov 15, 2023
+- Export, add an export type: List. The List type behaves similar with the list output mode in sqlite3 command line shell, but show BLOB data as empty. Available on Data Editor, Query Editor and Run Query Shortcuts action.
+- Data Editor, supports show 16 bytes BLOB as UUID string. You can go to Settings - Data Editor to enable it.
+
 6.2.0 - Nov 6, 2023
 - Supports import JSON to a table.
 - Shortcuts. Supports import JSON to a table. Requires iOS 16.4 or later.

@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.2.1 - 2023年11月15日
+- 導出, 新增一個導出類型：List。 List導出類型和sqlite3命令行list輸出模式類似，但是List導出類型會將BLOB數據顯示爲空。在數據編輯器，查詢編輯器和捷徑中執行查詢操作可用。
+- 數據編輯器，支持顯示16字節BLOB爲UUID字符串。您可以在“設置” - “數據編輯器”裏開啓它。
+
 6.2.0 - 2023年11月6日
 - 支持導入JSON到表。
 - 捷徑。支持導入JSON到表。需要iOS 16.4+支持。
