@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新说明。
 ---
 
+6.2.1 - 2023年11月15日
+- 导出, 新增一个导出类型：List。 List导出类型和sqlite3命令行list输出模式类似，但是List导出类型会将BLOB数据显示为空。在数据编辑器，查询编辑器和捷径中执行查询操作可用。
+
 6.2.0 - 2023年11月4日
 - 支持SQLite version 3.44.0 (2023-11-01)。
 - 支持导入JSON到表。
