@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.2.2 - Nov 22, 2023
+- Supports SQLite version 3.44.1 (2023-11-22).
+
 6.2.1 - Nov 15, 2023
 - Export, add an export type: List. The List type behaves similar with the list output mode in sqlite3 command line shell, but show BLOB data as empty. Available on Data Editor, Query Editor and Run Query Shortcuts action.
 
