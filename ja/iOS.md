@@ -11,7 +11,7 @@ SQLiteFlowは、直感的で安定した信頼性の高いMacとiOS用のSQLite�
 [macOS 12.0+](./) / iOS 16.1+
 
 ## ダウンロード
-バージョン 6.2.1 | 2023-11-15 | <a href="iOS/ReleaseNotes" target="_blank">リリースノート</a>
+バージョン 6.2.2 | 2024-01-15 | <a href="iOS/ReleaseNotes" target="_blank">リリースノート</a>
 <br/><br/>[![Download](iOS/DownloadOnTheAppStore.svg)](https://itunes.apple.com/app/id1406266008)
 
 
@@ -100,7 +100,9 @@ SQLiteFlowは、直感的で安定した信頼性の高いMacとiOS用のSQLite�
 <img src="iOS/ImportCSV.png" width="320">
 
 **エクスポート**
-- CSV 形式へのテーブル/ビューデータとクエリ結果のエクスポートをサポートします。
+- CSVデータのインポートをサポートします。
+- テーブルへの JSON データのインポートをサポートします。
+- SQLファイルによるデータのインポートをサポートします。
 
 **複数のウィンドウ**
 - iPadOS 13 の複数のウィンドウをサポートしています。
