@@ -102,8 +102,8 @@ Version 6.2.2 | Jan 15, 2024 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 <img src="iOS/ImportCSV.png" width="320">
 
 **Export**
-• In Data Editor or Query Results, supports export data to CSV, JSON or Markdown.
-• In Data Editor, supports export data to Insert Statement or Update Statement if possible.
+- In Data Editor or Query Results, supports export data to CSV, JSON or Markdown.
+- In Data Editor, supports export data to Insert Statement or Update Statement if possible.
 
 **Multiple Windows**
 - Supports multiple windows for iPadOS 13.
