@@ -4,6 +4,14 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新說明。
 ---
 
+6.2.4 - 2024年01月16日
+- JSONB編輯器，支持在數據編輯器和查詢結果中顯示JSONB。
+- JSONB編輯器，支持在數據編輯器中以JSON來編輯JSONB。
+- 十六進制編輯器，支持拷貝Hex值爲C代碼。
+- 支持在導入中使用SQL文件來導入數據。
+- 支持SQLite version 3.45.0 (2024-01-15).
+- 其它問題修復與穩定性改善。
+
 6.2.3 - 2023年11月29日
 - 支援SQLite version 3.44.2 (2023-11-24)。
 

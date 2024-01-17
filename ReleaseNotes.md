@@ -4,6 +4,14 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.2.4 - Jan 16, 2024
+- JSONB Editor, supports view JSONB as JSON in Data Editor & Query Result
+- JSONB Editor, supports edit JSONB as JSON in Data Editor.
+- Hex Editor, supports copy hex values as C code.
+- Import, supports import data by SQL file.
+- Supports SQLite version 3.45.0 (2024-01-15).
+- Additional bug fixes and stability improvements.
+
 6.2.3 - Nov 29, 2023
 - Supports SQLite version 3.44.2 (2023-11-24).
 
