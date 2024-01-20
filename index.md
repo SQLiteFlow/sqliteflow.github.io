@@ -38,6 +38,7 @@ Version 6.2.5 | Jan 20, 2024 | <a href="ReleaseNotes" target="_blank">Release No
 - View, edit or add table data.
 - View table data with a convenient data filter.
 - Edit blob data as hex or show it as preview if possible.
+- Edit JSONB as JSON.
 - Copy data to CSV，JSON, Markdown, and to Insert Statement or Update Statement if possible.
 
 *Data Editor*
