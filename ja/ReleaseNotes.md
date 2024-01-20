@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.2.5 - 2024年01月20日
+- バージョン 4.5.6 に SQLCipher ライブラリを更新します。
+
 6.2.4 - 2024年01月16日
 - JSONB Editor、データエディタとクエリ結果でJSONBをJSONとして表示することをサポート
 - JSONB エディターは、データ エディターで JSON として JSONB を編集できます。

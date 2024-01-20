@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新说明。
 ---
 
+6.2.5 - 2024年01月20日
+- 更新SQLCipher库版本到4.5.6。
+
 6.2.4 - 2024年01月16日
 - JSONB编辑器，支持在数据编辑器和查询结果中显示JSONB。
 - JSONB编辑器，支持在数据编辑器中以JSON来编辑JSONB。
