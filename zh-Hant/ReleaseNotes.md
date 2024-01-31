@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新說明。
 ---
 
+6.2.6 - 2024年01月31日
+- 支援SQLite version 3.45.1 (2024-01-30).
+
 6.2.5 - 2024年01月20日
 - 更新SQLCipher庫版本到4.5.6。
 
