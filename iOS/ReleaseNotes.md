@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.2.5 - Feb 27, 2024
+- Supports visionOS.
+- Additional bug fixes and stability improvements.
+
 6.2.2 - Jan 15, 2024
 - Import, supports import data by SQL file.
 - Additional bug fixes and stability improvements.

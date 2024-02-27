@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.2.5 - 2024年2月27日
+- 支持visionOS。
+- 其它問題修復與穩定性改善。
+
 6.2.2 - 2024年1月15日
 - 支持在導入中使用SQL文件來導入數據。
 - 其它問題修復與穩定性改善。
