@@ -4,6 +4,14 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.3.0 - Mar 7, 2024
+Redesign purchase plans, this update has no effect on existing users.
+All plans can let user enjoy all features of the app.
+- S2-week Trial, the free trial start automatically at your first time download the app, no in-app purchases will be involved. App will be locked when free trial ends.
+- SPay-As-You-Go, a monthly subscription that let user enjoy the app. App will be locked when subscription expired.
+- SUnlimited Annual, an annually subscription that let user enjoy the app. App will be locked when subscription expired.
+- SLifetime License, buy once, own the app. This plan was previously named Full App, so existing purchased user should already have this.
+
 6.2.5 - Feb 27, 2024
 - Supports visionOS.
 - Additional bug fixes and stability improvements.
