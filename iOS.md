@@ -111,9 +111,13 @@ Version 6.3.0 | Mar 7, 2024 | <a href="iOS/ReleaseNotes" target="_blank">Release
 **Dark Mode**
 - Supports dark mode for iOS 13.
 
+**visionOS**
+- Supports visionOS.
+
 **Shortcuts**
 - Supports "Run Query" action.
 - Supports "Import CSV" action.
+- Supports "Import JSON" action.
 
 **Languages**
 - English \| [简体中文 (Chinese, Simplified)](/zh-Hans/iOS) \| [繁體中文 (Chinese, Traditional)](/zh-Hant/iOS) \| [日本語 (Japanese)](/ja/iOS)

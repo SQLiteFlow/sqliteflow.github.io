@@ -109,9 +109,13 @@ SQLiteFlow是為Mac和iOS平臺開發的直觀，穩定和易用的SQLite編輯�
 **深色模式**
 - 在iOS 13中支援深色模式。
 
+**visionOS**
+- 支援visionOS。
+
 **捷徑**
 - 支援“執行查詢”操作。
 - 支援“匯入CSV”操作。
+- 支援“匯入JSON”操作。
 
 **語言**
 - [English](/) \| [简体中文 (Chinese, Simplified)](/zh-Hans/iOS) \| 繁體中文 (Chinese, Traditional) \| [日本語 (Japanese)](/ja/iOS)
