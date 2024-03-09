@@ -8,10 +8,10 @@ description: SQLite editor for Mac
 SQLiteFlow is an SQLite editor for Mac & iOS which is intuitive, stable and reliable to use.
 
 ## Platform
-macOS 12.0+ / [iOS 16.1+](iOS)
+macOS 13.0+ / [iOS 16.1+](iOS)
 
 ## Download
-Version 6.2.6 | Jan 31, 2024 | <a href="ReleaseNotes" target="_blank">Release Notes</a>
+Version 6.3.0 | Mar 10, 2024 | <a href="ReleaseNotes" target="_blank">Release Notes</a>
 <br/><br/>[![Download](macOS/DownloadOnTheMacAppStore.svg)](macappstores://itunes.apple.com/app/id1378587993)
 
 

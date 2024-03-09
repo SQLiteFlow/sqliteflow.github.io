@@ -4,6 +4,13 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.3.0 - Mar 10, 2024
+Redesign purchase plans, this update has no effect on existing users. All plans can let user enjoy all features of the app. This version of SQLiteFlow requires macOS 13.0 or later.
+- 2-week Trial, the free trial start automatically at your first time download the app, no in-app purchases will be involved. App will be locked when free trial ends.
+- Pay-As-You-Go, a monthly subscription that let user enjoy the app. App will be locked when subscription expired.
+- Unlimited Annual, an annually subscription that let user enjoy the app. App will be locked when subscription expired.
+- Lifetime License, buy once, own the app. This plan was previously named Full App, so existing purchased user should already have this.
+
 6.2.6 - Jan 31, 2024
 - Supports SQLite version 3.45.1 (2024-01-30).
 
