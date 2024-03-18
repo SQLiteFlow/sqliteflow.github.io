@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.3.1 - Mar 18, 2024
+- Supports SQLite version 3.45.2 (2024-03-12).
+
 6.3.0 - Mar 10, 2024
 Redesign purchase plans, this update has no effect on existing users. All plans can let user enjoy all features of the app. This version of SQLiteFlow requires macOS 13.0 or later.
 - 2-week Trial, the free trial start automatically at your first time download the app, no in-app purchases will be involved. App will be locked when free trial ends.
