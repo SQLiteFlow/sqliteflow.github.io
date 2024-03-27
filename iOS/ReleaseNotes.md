@@ -17,8 +17,7 @@ description: SQLiteFlow for iOS release notes.
 - Bug fixes and stability improvements.
 
 6.3.0 - Mar 7, 2024
-Redesign purchase plans, this update has no effect on existing users.
-All plans can let user enjoy all features of the app.
+<br/>Redesign purchase plans, this update has no effect on existing users. All plans can let user enjoy all features of the app.
 - 2-week Trial, the free trial start automatically at your first time download the app, no in-app purchases will be involved. App will be locked when free trial ends.
 - Pay-As-You-Go, a monthly subscription that let user enjoy the app. App will be locked when subscription expired.
 - Unlimited Annual, an annually subscription that let user enjoy the app. App will be locked when subscription expired.
