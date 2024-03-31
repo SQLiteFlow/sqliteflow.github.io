@@ -72,6 +72,11 @@ macOS 13.0+ / [iOS 16.1+](iOS)
 *数据库统计*
 ![Database Statistics](macOS/Statistics.png)
 
+**ER图表**
+- 支持切换字段类型显示状态。
+- 支持开启关联猜测。
+- 支持拷贝到Mermaid markdown。
+
 **数据库比较**
 - 支持生成使一个数据库转为另一个数据库SQL语句。
 - 支持只显示两个数据库之间的不同的摘要信息。

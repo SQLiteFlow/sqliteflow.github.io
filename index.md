@@ -76,6 +76,11 @@ Version 6.3.3 | Mar 31, 2024 | <a href="ReleaseNotes" target="_blank">Release No
 *Database Statistics*
 ![Database Statistics](macOS/Statistics.png)
 
+**ER Diagram**
+- Supports toggle field type hide or show.
+- Supports Relationship Guessing.
+- Supports copy as Mermaid markdown.
+
 **Database Diff**
 - Supports generate SQL text that can let you transform a database into another.
 - Supports show a summary of the differences between two databases.
