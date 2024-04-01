@@ -4,6 +4,12 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.3.5 - 2024年03月31日
+- 支持顯示ER圖表。您可以到「菜單」 - 「數據庫」 - 「ER圖表」來打卡它。
+- ER圖表，支持切換字段類型顯示狀態。
+- ER圖表，支持開啓關聯猜測。此設置開啓後，當表名與列名合適時，即使兩表沒有聲明關聯，也視力兩表爲關聯。舉個例子，即使Customer表和Invoice表（Invoice表有個字段CustomerID）沒有聲明外鍵關聯，也視兩表有關聯。
+- ER圖表，支持拷貝到Mermaid markdown。
+
 6.3.4 - 2024年3月21日
 - 問題修復與穩定性改善。
 

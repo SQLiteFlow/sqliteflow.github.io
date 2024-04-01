@@ -4,6 +4,12 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.3.5 - Mar 31, 2024
+- Supports show database ER diagram. You can go to Menu - Database - ER Diagram to display it.
+- ER Diagram, supports toggle field type hide and show.
+- ER Diagram, supports enable Relationship Guessing. If this setting is enable, the diagram would treat two tables have relationship if they have appropriate table and field name even if they are not declared have relationship. For example, a table Customer and a table Invoice (which has a field named CustomerID) will be treated have relationship even if there's no foreign key declaration on table Invoice.
+- ER Diagram, supports copy as Mermaid markdown.
+
 6.3.4 - Mar 21, 2024
 - Bug fixes and stability improvements.
 
