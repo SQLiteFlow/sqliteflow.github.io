@@ -4,6 +4,17 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.3.6 - Apr 15, 2024
+- ER Diagram. Add an icon to primary key field to indicate a table's primary key.
+- ER Diagram. Add an icon to foreign key field to indicate a table's foreign key.
+- ER Diagram. Field name and type now has different text styling.
+- ER Diagram. When select a foreign key field, foreign key referenced field, or relation path, related elements will be highlighted.
+- ER Diagram. Supports open Table Schema (by clicking the button besides the table name) to edit table's schema structure.
+- ER Diagram. Supports open Data Editor (by right clicking a table name - Select Rows) to edit table's data.
+- Table Schema. Supports editing indexes on expressions.
+- Table Schema. Supports editing partial indexes.
+- Table Schema. Let alter table SQL preview less verbose in some scenarios.
+
 6.3.3 - Mar 31, 2024
 - Supports show database ER diagram. You can go to Menu - Database - ER Diagram to display it.
 - ER Diagram, supports toggle field type hide and show.
