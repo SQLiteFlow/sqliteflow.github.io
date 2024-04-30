@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.3.7 - Apr 30, 2024
+- Database List, supports show foreign key field icon.
+- Supports SQLite version 3.45.3 (2024-04-15).
+- Update SQLCipher library to version 4.5.7.
+
 6.3.6 - Apr 15, 2024
 - ER Diagram. Add an icon to primary key field to indicate a table's primary key.
 - ER Diagram. Add an icon to foreign key field to indicate a table's foreign key.

@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新說明。
 ---
 
+6.3.7 - 2024年04月30日
+- 數據庫列表。支持顯示外鍵圖標。
+- 支援SQLite version 3.45.3 (2024-04-15)。
+- 更新SQLCipher庫版本到4.5.7。
+
 6.3.6 - 2024年04月15日
 - ER圖表。爲主鍵字段增加指示圖標。
 - ER圖表。爲外鍵字段增加指示圖標。
