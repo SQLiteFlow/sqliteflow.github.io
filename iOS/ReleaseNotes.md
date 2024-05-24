@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.3.7 - May 24, 2024
+- Bug fixes and stability improvements.
+
 6.3.6 - Apr 30, 2024
 - ER Diagram. Add an icon to primary key field to indicate a table's primary key.
 - ER Diagram. Add an icon to foreign key field to indicate a table's foreign key.
