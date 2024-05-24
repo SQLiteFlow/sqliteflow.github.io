@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.3.8 - 2024年05月24日
+- SQLite version 3.46.0 (2024-05-23) をサポート。
+- 追加のバグ修正と安定性の向上。
+
 6.3.7 - 2024年04月30日
 - データベースリストは、外部キーフィールドアイコンの表示をサポートします。
 - SQLite Version 3.45.3 (2024-04-15) をサポート。

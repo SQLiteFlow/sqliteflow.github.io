@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.3.8 - May 24, 2024
+- Supports SQLite version 3.46.0 (2024-05-23).
+- Additional bug fixes and stability improvements
+
 6.3.7 - Apr 30, 2024
 - Database List, supports show foreign key field icon.
 - Supports SQLite version 3.45.3 (2024-04-15).
