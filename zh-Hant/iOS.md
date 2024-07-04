@@ -11,7 +11,7 @@ SQLiteFlow是為Mac和iOS平臺開發的直觀，穩定和易用的SQLite編輯�
 [macOS 13.0+](./) / iOS 16.1+
 
 ## 下載
-版本 6.3.7 | 2024-05-24 | <a href="/zh-Hant/iOS/ReleaseNotes" target="_blank">更新日誌</a>
+版本 6.3.8 | 2024-07-04 | <a href="/zh-Hant/iOS/ReleaseNotes" target="_blank">更新日誌</a>
 <br/><br/>[![Download](iOS/DownloadOnTheAppStore.svg)](https://itunes.apple.com/app/id1406266008)
 
 
