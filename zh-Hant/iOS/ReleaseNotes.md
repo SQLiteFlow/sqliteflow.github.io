@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.4.0 - 2024年07月26日
+- 查詢編輯器。支持通過菜單或者已連接的物理鍵盤來註釋行，縮進行，回退縮進行（快捷鍵分別爲command + /, tab, shift + tab)。
+
 6.3.9 - 2024年07月10日
 - 問題修復與穩定性改善。
 

@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.4.0 - 2024年07月26日
+- クエリエディタは、コンテキストメニューまたは接続された物理キーボード(それぞれホットキーcommand + /、tab、shift + tabを使用)によるコメント、インテントライン、バックインデントラインの切り替えをサポートします。
+
 6.3.9 - 2024年07月10日
 - バグの修正と安定性の向上。
 

@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.4.0 - Jul 26, 2024
+- Query Editor, supports toggle comments, intent lines, back indent lines through context menu or a connected physical keyboard (with hotkey command + /, tab, shift + tab respectively).
+
 6.3.9 - Jul 10, 2024
 - Bug fixes and stability improvements.
 
