@@ -4,6 +4,13 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.4.1 - Sep 13, 2024
+- Data Editor, supports load and save filter as a filter file.
+- Data Editor, supports change visibility of columns. Requires macOS 14.0 or later.
+- Alter View, prepend DROP VIEW statement before CREATE VIEW statement to make altering a view more conveniently.
+- Database List, supports toggle show database location. Currently the default value is set to off, you can turn it on through right clicking a local database name - Show Database Location. If the app has simulator access permission, then databases on simulator folder may show simulator relative location info instead of file path.
+- Update SQLCipher library to version 4.6.1.
+
 6.4.0 - Aug 13, 2024
 - Supports SQLite version 3.46.1 (2024-08-13).
 
