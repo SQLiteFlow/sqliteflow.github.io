@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.4.2 - Sep 13, 2024
+- Bug fixes and stability improvements.
+
 6.4.1 - Sep 13, 2024
 - Data Editor, supports load and save filter as a filter file.
 - Data Editor, supports change visibility of columns. Requires macOS 14.0 or later.
