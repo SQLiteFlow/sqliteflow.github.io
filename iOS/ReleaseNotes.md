@@ -81,7 +81,7 @@ description: SQLiteFlow for iOS release notes.
 
 5.8.6 - Dec 11, 2022
 - Query Editor. Supports find text. Requires iOS 16.0 or iPadOS 16.0.
-- Table Schema. Add extra space at top to make context info more clearer. And the extra space is also a trick to avoid back button be tapped by accident. . Requires iOS 15.0 or iPadOS 15.0.
+- Table Schema. Add extra space at top to make context info more clearer. And the extra space is also a trick to avoid back button be tapped by accident. Requires iOS 15.0 or iPadOS 15.0.
 - Additional bug fixes and stability improvements.
 
 5.8.5 - Oct 26, 2022
