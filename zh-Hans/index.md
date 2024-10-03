@@ -8,7 +8,7 @@ description: Mac SQLite编辑器
 SQLiteFlow是为Mac和iOS平台开发的直观，稳定和易用的SQLite编辑器。
 
 ## 支持平台
-macOS 13.0+ / [iOS 16.1+](iOS)
+macOS 13.0+ / [iOS 17.0+](iOS)
 
 ## 下载
 版本 6.4.2 | 2024-09-13 | <a href="ReleaseNotes" target="_blank">更新日志</a>

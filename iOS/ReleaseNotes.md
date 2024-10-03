@@ -4,6 +4,13 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.5.0 - Oct 2, 2024
+- Browse. When tap a not downloaded file, now app will try to open it automatically after finished downloading.
+- Data Editor. Supports change font size. You can go to Settings - Data Editor to change it.
+- Shortcut. Run Query action. Fix an issue that when query is empty and the setting Include Query Message in Result in turned on, query message is not included in result.
+- This version of SQLiteFlow now requires iOS 17.0 or later.
+- Additional bug fixes and stability improvements.
+
 6.4.0 - Jul 26, 2024
 - Query Editor, supports toggle comments, intent lines, back indent lines through context menu or a connected physical keyboard (with hotkey command + /, tab, shift + tab respectively).
 
