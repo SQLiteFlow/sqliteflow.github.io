@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.5.2 - 2024年10月23日
+- 查詢編輯器。現在執行完可能修改表結構的查詢後，會自動刷新一些和數據庫相關的界面。
+- 其它問題修復與穩定性改善。
+
 6.5.1 - 2024年10月3日
 - 問題修復與穩定性改善。
 

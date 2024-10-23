@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.5.2 - Oct 23, 2024
+- Query Editor. Now some database relate UI will automatically be refreshed after execute queries that may change database schema.
+- Additional bug fixes and stability improvements.
+
 6.5.1 - Oct 3, 2024
 - Bug fixes and stability improvements.
 
