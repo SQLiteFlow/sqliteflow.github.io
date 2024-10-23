@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.5.1 - Oct 3, 2024
+- Bug fixes and stability improvements.
+
 6.5.0 - Oct 2, 2024
 - Browse. When tap a not downloaded file, now app will try to open it automatically after finished downloading.
 - Data Editor. Supports change font size. You can go to Settings - Data Editor to change it.
