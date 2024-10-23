@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.5.1 - Oct 22, 2024
+- Query Editor. Now some database relate UI will automatically be refreshed after execute queries that may change database schema.
+- Supports SQLite version 3.47.0 (2024-10-21).
+- Additional bug fixes and stability improvements.
+
 6.5.0 - Oct 2, 2024
 - Query Editor. Explain and Explain Query Plan now respect to user selection text.
 - Alter Table. Fix an issue that may cause editing indexed columns by choosing an item from a popup menu item have no effect.
