@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.5.3 - Nov 13, 2024
+- Data Editor & Query Result, add an option to the Text Editor to let user format text as JSON.
+
 6.5.2 - Oct 23, 2024
 - Query Editor. Now some database relate UI will automatically be refreshed after execute queries that may change database schema.
 - Additional bug fixes and stability improvements.
