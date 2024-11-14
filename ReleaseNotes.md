@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.5.2 - Nov 14, 2024
+- Data Editor & Query Result, add an option to the Text Editor to let user format text as JSON.
+- Additional bug fixes and stability improvements.
+
 6.5.1 - Oct 22, 2024
 - Query Editor. Now some database relate UI will automatically be refreshed after execute queries that may change database schema.
 - Supports SQLite version 3.47.0 (2024-10-21).
