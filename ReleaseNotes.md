@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.5.3 - Nov 27, 2024
+- Create Function. Supports create scalar function using a simple JavaScript routine.
+- Supports SQLite version 3.47.1 (2024-11-25).
+- Additional bug fixes and stability improvements.2
+
 6.5.2 - Nov 14, 2024
 - Data Editor & Query Result, add an option to the Text Editor to let user format text as JSON.
 - Additional bug fixes and stability improvements.
