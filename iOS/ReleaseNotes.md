@@ -4,7 +4,7 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
-6.5.3 - Nov 27, 2024
+6.5.4 - Nov 27, 2024
 - Create Function. Supports create scalar function using a simple JavaScript routine.
 - Additional bug fixes and stability improvements.
 

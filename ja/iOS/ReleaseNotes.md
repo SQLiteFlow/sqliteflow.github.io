@@ -4,7 +4,7 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
-6.5.3 - 2024-11-27
+6.5.4 - 2024年11月27日
 - 関数を作成する。簡単なJavaScriptルーチンを使用してスカラー関数の作成をサポートします。
 - 追加のバグ修正と安定性の改善。
 
