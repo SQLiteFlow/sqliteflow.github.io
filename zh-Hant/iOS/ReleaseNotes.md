@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.5.3 - 2024-11-27
+- 創建函數。支持使用簡單的JavaScript例程創建標量函數。
+- 其它問題修復與穩定性改善。
+
 6.5.3 - 2024年11月13日
 - 數據編輯器和查詢結果。添加了一個讓用戶在文本編輯器裏將文本格式化爲JSON的選項。
 
