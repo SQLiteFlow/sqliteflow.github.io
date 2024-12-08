@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.5.4 - 2024年12月7日
+- バグ修正と安定性の改善。
+
 6.5.3 - 2024年11月27日
 - 関数を作成する。簡単なJavaScriptルーチンを使用してスカラー関数の作成をサポートします。
 - SQLite バージョン 3.47.1 (2024-11-25) をサポートします。

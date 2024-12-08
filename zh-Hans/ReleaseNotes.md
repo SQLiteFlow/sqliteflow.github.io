@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新说明。
 ---
 
+6.5.4 - 2024年12月7日
+- 问题修复与稳定性改善。
+
 6.5.3 - 2024年11月27日
 - 创建函数。支持使用简单的JavaScript例程创建标量函数。
 - 支持SQLite version 3.47.1 (2024-11-25)。
