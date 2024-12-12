@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.5.5 - 2024年12月8日
+- SQLite バージョン 3.47.2 (2024-12-07) をサポートします。
+
 6.5.4 - 2024年12月7日
 - バグ修正と安定性の改善。
 
