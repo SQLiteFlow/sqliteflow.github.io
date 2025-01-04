@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.5.6 - Jan 2, 2025
+- Fix a crash issue when creating a FTS table.
+
 6.5.5 - Dec 1, 2024
 - Bug fixes and stability improvements.
 

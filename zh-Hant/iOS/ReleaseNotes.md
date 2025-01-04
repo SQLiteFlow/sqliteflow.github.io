@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.5.6 - 2025年1月2日
+- 修復一個創建FTS表時閃退的問題。
+
 6.5.5 - 2024年12月1日
 - 問題修復與穩定性改善。
 

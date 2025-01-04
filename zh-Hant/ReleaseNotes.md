@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新說明。
 ---
 
+6.5.6 - 2025年1月4日
+- 修復一個創建FTS表時閃退的問題。
+
 6.5.5 - 2024年12月8日
 - 支援SQLite version 3.47.2 (2024-12-07)。
 
