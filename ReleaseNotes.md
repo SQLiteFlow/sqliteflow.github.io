@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.5.7 - Jan 7, 2025
+- Bug fixes and stability improvements.
+
 6.5.6 - Jan 4, 2025
 - Fix a crash issue when creating a FTS table.
 
