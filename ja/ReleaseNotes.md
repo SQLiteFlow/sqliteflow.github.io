@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.5.8 - 2025年1月20日
+- JSONBエディター。JSONBデータの読み込みに失敗する可能性のある問題を修正しました。
+- SQLite バージョン 3.48.0 (2025-01-14) をサポートします。
+
 6.5.7 - 2025年1月7日
 - バグ修正と安定性の改善。
 
