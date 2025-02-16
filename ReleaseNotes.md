@@ -4,6 +4,14 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.6.0 - Feb 16, 2025
+- Auto completion, supports auto complete most of SQLite internal functions with placeholders as parameters tips.
+- Supports use Cmd+Number to switch window tabs.
+- Add export menu to the Tools menu at the main menu bar, to let user export displaying rows in Data Editor or Query Result to clipboard as CSV, JSON or Markdown more quickly.
+- Dump Database, fix an issue that may cause later import failed when some kind of triggers exist.
+- Supports SQLite version 3.49.0 (2025-02-06).
+- This version of SQLiteFlow requires macOS 14.0 or later.
+
 6.5.8 - Jan 20, 2025
 - JSONB Editor. Fix an issue that may load JSONB data failed.
 - Supports SQLite version 3.48.0 (2025-01-14).
