@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.6.0 - Feb 16, 2025
+- Auto completion, supports auto complete most of SQLite internal functions with placeholders as parameters tips.
+- Dump Database, fix an issue that may cause later import failed when some kind of triggers exist.
+- Additional bug fixes and stability improvements.
+
 6.5.6 - Jan 2, 2025
 - Fix a crash issue when creating a FTS table.
 
