@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.6.1 - Feb 20, 2025
+- Hex Editor, supports copy hex data as blob literal.
+- Supports SQLite version 3.49.1 (2025-02-18).
+
 6.6.0 - Feb 16, 2025
 - Auto completion, supports auto complete most of SQLite internal functions with placeholders as parameters tips.
 - Supports use Cmd+Number to switch window tabs.
