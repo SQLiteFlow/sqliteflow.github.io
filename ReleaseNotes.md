@@ -52,7 +52,7 @@ description: SQLiteFlow for Mac release notes.
 - Purchase Plan. Fix an issue that may cause Purchase Plan page displays unexpectedly when app launches.
 - Inside Explorer. When open a database file, the temp database journal files will no longer flush to main file automatically.
 - Inside Explorer. Fix an issue that may lead to app crashes.
-- Shortcut. Run Query action. Fix an issue that when query is empty and the setting Include Query Message in Result in turned on, query message is not included in result.
+- Shortcuts. Run Query action. Fix an issue that when query is empty and the setting Include Query Message in Result in turned on, query message is not included in result.
 - Additional bug fixes and stability improvements.
 
 6.4.2 - Sep 13, 2024
