@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.6.2 - 2025年3月11日
+- 問題修復與穩定性改善。
+
 6.6.1 - 2025年2月20日
 - 數據編輯器。將BLOB數據單元格菜單的“拷貝十六進制文本”改爲“拷貝爲BLOB字串”，因爲它在實踐中更有用些。
 - 十六進制編輯器。支持拷貝十六進制數據爲BLOB字串。

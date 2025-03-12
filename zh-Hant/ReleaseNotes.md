@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新說明。
 ---
 
+6.6.2 - 2025年3月11日
+- 問題修復與穩定性改善。
+
 6.6.1 - 2025年2月20日
 - 十六進制編輯器。支持拷貝十六進制數據爲BLOB字串。
 - 支持 SQLite version 3.49.1 (2025-02-18)。

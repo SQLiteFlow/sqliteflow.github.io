@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.6.2 - Mar 11, 2025
+- Bug fixes and stability improvements.
+
 6.6.1 - Feb 20, 2025
 - Hex Editor, supports copy hex data as blob literal.
 - Supports SQLite version 3.49.1 (2025-02-18).

@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.6.2 - 2025年3月11日
+- バグ修正と安定性の改善。
+
 6.6.1 - 2025年2月20日
 - ヘックス エディターは、ヘックス データを blob リテラルとしてコピーすることをサポートします。
 - SQLite バージョン 3.49.1 (2025-02-18) をサポートします。

@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.6.2 - Mar 11, 2025
+- Bug fixes and stability improvements.
+
 6.6.1 - Feb 20, 2025
 - Data Editor, change the "Copy as Hex String" item of the context menu of BLOB data cell to "Copy as BLOB Literal" since it's more useful in practice.
 - Hex Editor, supports copy hex data as BLOB literal.
