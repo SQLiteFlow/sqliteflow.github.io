@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新說明。
 ---
 
+6.6.3 - 2025年3月12日
+- 問題修復與穩定性改善。
+
 6.6.2 - 2025年3月11日
 - 問題修復與穩定性改善。
 
