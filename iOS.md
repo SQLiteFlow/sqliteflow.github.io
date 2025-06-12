@@ -69,7 +69,7 @@ Version 6.6.3 | Mar 12, 2025 | <a href="iOS/ReleaseNotes" target="_blank">Releas
 <img src="iOS/AlterTable.png" width="320">
 
 **Connect**
-- Supports let SQLiteFlow(macOS) connect databases in this app.
+- Supports let SQLiteFlow(macOS) connect databases in this app. One use case is that you can debug query performance issue on your iPhone or iPad directly through your Mac.
 
 <br/>
 <img src="iOS/RemoteConnect.png" width="320">

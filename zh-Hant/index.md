@@ -83,7 +83,7 @@ macOS 14.0+ / [iOS 17.0+](iOS)
 ![Database Diff](macOS/DatabaseDiff.png)
 
 **遠端連線**
-- 支援遠端連線在SQLiteFlow(iOS)中的資料庫。
+- 支援遠端連線在SQLiteFlow(iOS)中的資料庫。一個使用場景是您可以直接在您的Mac上調試在iPhone或者iPad上的查詢性能問題。
 
 *遠端連線*
 ![Open Remote Database](macOS/RemoteConnect.png)

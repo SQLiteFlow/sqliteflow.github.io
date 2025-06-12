@@ -69,7 +69,7 @@ SQLiteFlow是為Mac和iOS平臺開發的直觀，穩定和易用的SQLite編輯�
 <img src="iOS/AlterTable.png" width="320">
 
 **連線**
-- 支援SQLiteFlow(macOS)遠端連線到在本應用中的資料庫。
+- 支援SQLiteFlow(macOS)遠端連線到在本應用中的資料庫。一個使用場景是您可以直接在您的Mac上調試在iPhone或者iPad上的查詢性能問題。
 
 <br/>
 <img src="iOS/RemoteConnect.png" width="320">

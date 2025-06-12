@@ -87,7 +87,7 @@ Version 6.6.6 | May 31, 2025 | <a href="ReleaseNotes" target="_blank">Release No
 ![Database Diff](macOS/DatabaseDiff.png)
 
 **Remote Connect**
-- Supports open remote SQLite database in iPhone or iPad with SQLiteFlow(iOS) installed.
+- Supports open remote SQLite database in iPhone or iPad with SQLiteFlow(iOS) installed. One use case is that you can debug query performance issue on your iPhone or iPad directly through your Mac.
 
 *Remote Connect*
 ![Open Remote Database](macOS/RemoteConnect.png)

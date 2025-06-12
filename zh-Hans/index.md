@@ -83,7 +83,7 @@ macOS 14.0+ / [iOS 17.0+](iOS)
 ![Database Diff](macOS/DatabaseDiff.png)
 
 **远程连接**
-- 支持远程连接在SQLiteFlow(iOS)中的数据库。
+- 支持远程连接在SQLiteFlow(iOS)中的数据库。一个使用场景是您可以直接在您的Mac上调试在iPhone或者iPad上的查询性能问题。
 
 *远程连接*
 ![Open Remote Database](macOS/RemoteConnect.png)

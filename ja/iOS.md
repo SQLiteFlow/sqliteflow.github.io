@@ -69,7 +69,7 @@ SQLiteFlowは、直感的で安定した信頼性の高いMacとiOS用のSQLite�
 <img src="iOS/AlterTable.png" width="320">
 
 **接続**
-- サポートは、SQLiteFlow(macOS)は、このアプリでデータベースを接続してみましょう。
+- サポートは、SQLiteFlow(macOS)は、このアプリでデータベースを接続してみましょう。ユースケースの1つは、iPhoneまたはiPadのクエリパフォーマンスの問題をMacから直接デバッグできることです。
 
 <br/>
 <img src="iOS/RemoteConnect.png" width="320">

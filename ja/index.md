@@ -86,7 +86,7 @@ macOS 14.0+ / [iOS 17.0+](iOS)
 ![Database Diff](macOS/DatabaseDiff.png)
 
 **リモート接続**
-- SQLiteFlow(iOS)がインストールされているiPhoneまたはiPadでオープンリモートSQLiteデータベースをサポートしています。
+- SQLiteFlow(iOS)がインストールされているiPhoneまたはiPadでオープンリモートSQLiteデータベースをサポートしています。ユースケースの1つは、iPhoneまたはiPadのクエリパフォーマンスの問題をMacから直接デバッグできることです。
 
 *リモート接続*
 ![Open Remote Database](macOS/RemoteConnect.png)
