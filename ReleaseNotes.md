@@ -4,6 +4,12 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.6.7 - Jun 21, 2025
+- Supports SQLite version 3.50.1 (2025-06-06).
+- Update SQLCipher library to version 4.9.0.
+- Query Editor. Paste Recent is now also available at Main Menu - Editor, making it easier to discover.
+- Additional bug fixes and stability improvements.
+
 6.6.6 - May 31, 2025
 - Supports SQLite version 3.50.0 (2025-05-29).
 
