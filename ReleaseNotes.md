@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.7.0 - Jul 20, 2025
+- Fix an issue that changing the database path may cause the app to lose database access permissions. For example, once you open a database in the iOS Simulator and redeploy your app, SQLiteFlow should access it without issue.
+
 6.6.9 - Jul 19, 2025
 - Supports SQLite version 3.50.3 (2025-07-17).
 

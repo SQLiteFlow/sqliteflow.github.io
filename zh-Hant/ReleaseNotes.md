@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新說明。
 ---
 
+6.7.0 - 2025年7月20日
+- 修復一個更改數據庫路徑可能導致app無法訪問數據庫的問題。舉個例子，當你打開在iOS模擬器中的數據庫並且重新部署app後，SQLiteFlow是應該可以正常訪問它的。
+
 6.6.9 - 2025年7月19日
 - 支援SQLite version 3.50.3 (2025-07-17)。
 
