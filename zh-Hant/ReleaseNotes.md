@@ -4,8 +4,12 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新說明。
 ---
 
+6.7.2 - 2025年10月2日
+- 支援macOS 26。
+- 其它問題修復與穩定性改善。
+
 6.7.1 - 2025年8月15日
-- 支持SQLite version 3.50.4 (2025-07-30)。
+- 支援SQLite version 3.50.4 (2025-07-30)。
 - 更新SQLCipher庫版本到4.10.0。
 
 6.7.0 - 2025年7月20日
@@ -18,7 +22,7 @@ description: Mac SQLiteFlow 更新說明。
 - 支援SQLite version 3.50.2 (2025-06-28)。
 
 6.6.7 - 2025年6月21日
-- 支持SQLite version 3.50.1 (2025-06-06)。
+- 支援SQLite version 3.50.1 (2025-06-06)。
 - 更新SQLCipher庫版本到4.9.0。
 - 查詢編輯器，爲了讓「粘貼最近使用」這個功能更易被發現，現在可以在主菜單-「編輯器」中使用這個功能。
 - 其它問題修復與穩定性改善。
