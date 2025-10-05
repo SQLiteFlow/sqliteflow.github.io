@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.7.0 - Oct 4, 2025
+- Supports iOS 26.
+- Additional bug fixes and stability improvements.
+- This version of SQLiteFlow now requires iOS 18.0 or later.
+
 6.6.3 - Mar 12, 2025
 - Bug fixes and stability improvements.
 
