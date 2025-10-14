@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.7.1 - Oct 14, 2025
+- Fix an issue that may cause app crash at launch on iPadOS 26.0.1.
+- Additional bug fixes and stability improvements.
+
 6.7.0 - Oct 4, 2025
 - Supports iOS 26.
 - Additional bug fixes and stability improvements.

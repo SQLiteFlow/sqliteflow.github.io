@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.7.3 - Oct 14, 2025
+- Hex Editor. Minor UI enhancements.
+- Copy Query. Supports setting Query End field.
+- Additional bug fixes and stability improvements.
+
 6.7.2 - Oct 2, 2025
 - Supports macOS 26.
 - Additional bug fixes and stability improvements.
