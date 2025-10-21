@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.7.2 - 2025年10月21日
+- 數據編輯器。對外接鍵盤的支持改進。
+- 其它問題修復與穩定性改善。
+
 6.7.1 - 2025年10月14日
 - 修復一個可能導致在iPadOS 26.0.1中應用啓動時閃退的問題。
 - 其他問題修復與穩定性改善。
