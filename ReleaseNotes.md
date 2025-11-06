@@ -4,6 +4,14 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.7.4 - Nov 6, 2025
+- In Settings - General, supports show the date (from sourceid) of SQLite library.
+- Fix an issue that lead to load database failed if there's unrecognized tokenizer on a virtual table.
+- Inside Explorer. Fix an issue that may lead the app crash.
+- Inside Explorer. Supports show more details on overflow pages.
+- Supports SQLite version 3.51.0 (2025-11-04).
+- Additional bug fixes and stability improvements.
+
 6.7.3 - Oct 14, 2025
 - Hex Editor. Minor UI enhancements.
 - Copy Query. Supports setting Query End field.
