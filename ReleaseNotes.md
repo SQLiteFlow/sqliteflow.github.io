@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.7.5 - Dec 7, 2025
+- Supports SQLite version 3.51.1 (2025-11-28).
+- Update SQLCipher library to version 4.11.0.
+- Additional bug fixes and stability improvements.       
+
 6.7.4 - Nov 6, 2025
 - In Settings - General, supports show the date (from sourceid) of SQLite library.
 - Fix an issue that lead to load database failed if there's unrecognized tokenizer on a virtual table.

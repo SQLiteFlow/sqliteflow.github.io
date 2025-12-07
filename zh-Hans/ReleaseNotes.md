@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新说明。
 ---
 
+6.7.5 - 2025年12月7日
+- 支持SQLite version 3.51.1 (2025-11-28)。
+- 更新SQLCipher库版本到4.11.0。
+- 其它问题修复与稳定性改善。
+
 6.7.4 - 2025年11月6日
 - 在“设置”-“通用”中，支持显示SQLite库的日期（来自sourceid）。
 - 修复了一个如果虚拟表上存在无法识别的令牌化器，导致数据库加载失败的问题。
