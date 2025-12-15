@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新說明。
 ---
 
+6.7.6 - 2025年12月15日
+- 修復一個編輯器使用不存在的字體時導致程序閃退的問題。
+
 6.7.5 - 2025年12月7日
 - 支援SQLite version 3.51.1 (2025-11-28)。
 - 更新SQLCipher庫版本到4.11.0。
