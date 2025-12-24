@@ -4,6 +4,12 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.7.7 - Dec 24, 2025
+- Data Editor. The default font size of Data Editor now will be the standard system font size.
+- Database List. The default value of Show Database Location now is true.
+- Update SQLCipher to 4.12.0.
+- Additional bug fixes and stability improvements.
+
 6.7.6 - Dec 15, 2025
 - Fixed an issue where the app crashes if the editor attempts to use a font that has been uninstalled.
 
