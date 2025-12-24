@@ -76,6 +76,7 @@ macOS 14.0+ / [iOS 18.0+](iOS)
 - 支持切换字段类型显示状态。
 - 支持开启关联猜测。
 - 支持拷贝到Mermaid markdown。
+![ER Diagram](macOS/ERDiagram.png)
 
 **数据库比较**
 - 支持生成使一个数据库转为另一个数据库SQL语句。

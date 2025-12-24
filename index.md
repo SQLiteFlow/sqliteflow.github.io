@@ -80,6 +80,7 @@ Version 6.7.7 | Dec 24, 2025 | <a href="ReleaseNotes" target="_blank">Release No
 - Supports toggle field type hide or show.
 - Supports Relationship Guessing.
 - Supports copy as Mermaid markdown.
+![ER Diagram](macOS/ERDiagram.png)
 
 **Database Diff**
 - Supports generate SQL text that can let you transform a database into another.
