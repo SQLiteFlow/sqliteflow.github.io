@@ -28,7 +28,7 @@ macOS 14.0+ / [iOS 18.0+](iOS)
 - クエリを説明します。
 
 *クエリ エディター*
-![QueryEditor](macOS/Editor.png)
+![QueryEditor](macOS/QueryEditor.png)
 
 **データ エディタ**
 

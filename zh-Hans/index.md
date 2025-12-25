@@ -28,7 +28,7 @@ macOS 14.0+ / [iOS 18.0+](iOS)
 - 解释查询。
 
 *SQL编辑器*
-![QueryEditor](macOS/Editor.png)
+![QueryEditor](macOS/QueryEditor.png)
 
 **数据编辑器**
 

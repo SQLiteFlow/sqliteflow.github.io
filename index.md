@@ -28,7 +28,7 @@ Version 6.7.7 | Dec 24, 2025 | <a href="ReleaseNotes" target="_blank">Release No
 - Explain query.
 
 *Query Editor*
-![QueryEditor](macOS/Editor.png)
+![QueryEditor](macOS/QueryEditor.png)
 
 **Data Editor**
 
