@@ -27,11 +27,8 @@ macOS 14.0+ / [iOS 18.0+](iOS)
 - 粘贴最近使用查询会话。
 - 解释查询。
 
-*SQL编辑器 - 支持多SQL执行。*
-![Editor](macOS/Editor.png)
-
-*SQL编辑器- 自定义风格拷贝查询与它的设置页面。*
-![Editor - CopyWithCustomStyle](macOS/CopyWithCustomStyle.png)
+*SQL编辑器*
+![QueryEditor](macOS/Editor.png)
 
 **数据编辑器**
 
@@ -52,18 +49,18 @@ macOS 14.0+ / [iOS 18.0+](iOS)
 - 预览修改表结构的SQL。
 
 *修改表结构 - 修改字段*
-![Alter Table - Fields](macOS/AlterTable.png)
+![Alter Table - Fields](macOS/TableSchema.png)
 
 *修改表结构 - 预览修改*
-![Alter Table - Preview](macOS/AlterPreview.png)
+![Alter Table - Preview](macOS/AlterTablePreview.png)
 
 **导入**
 - 支持导入CSV数据。
 - 支持导入JSON数据。
 - 支持导入SQL文件。
 
-*导入文本*
-![Import - Import from CSV Text](macOS/ImportFromCSV.png)
+*导入*
+![Import](macOS/Import.png)
 
 **数据库统计**
 - 显示表数和表中的记录数。

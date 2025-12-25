@@ -27,11 +27,8 @@ macOS 14.0+ / [iOS 18.0+](iOS)
 - 最近のクエリ セッションを貼り付けます。
 - クエリを説明します。
 
-*クエリ エディター - 複数クエリの実行*
-![Editor](macOS/Editor.png)
-
-*クエリ エディター - カスタム スタイルを使用したクエリのコピーと設定*
-![Editor - CopyWithCustomStyle](macOS/CopyWithCustomStyle.png)
+*クエリ エディター*
+![QueryEditor](macOS/Editor.png)
 
 **データ エディタ**
 
@@ -52,18 +49,18 @@ macOS 14.0+ / [iOS 18.0+](iOS)
 - テーブルを変更するためのクエリをプレビューします。
 
 *テーブルの変更 - フィールド*
-![Alter Table - Fields](macOS/AlterTable.png)
+![Alter Table - Fields](macOS/TableSchema.png)
 
 *テーブルの変更 - プレビュー*
-![Alter Table - Preview](macOS/AlterPreview.png)
+![Alter Table - Preview](macOS/AlterTablePreview.png)
 
 **インポート**
 - CSV データのインポートをサポートします。
 - JSON データのインポートをサポートします。
 - SQLファイルによるデータのインポートをサポートします。
 
-*CSV テキストからインポート*
-![Import - Import from CSV Text](macOS/ImportFromCSV.png)
+*インポート*
+![Import](macOS/Import.png)
 
 **ダークモード**
 - macOS 10.14+のダークモードをサポートしています。

@@ -27,11 +27,8 @@ macOS 14.0+ / [iOS 18.0+](iOS)
 - 貼上最近使用查詢會話。
 - 解釋查詢。
 
-*SQL編輯器 - 支援多SQL執行。*
-![Editor](macOS/Editor.png)
-
-*SQL編輯器- 自定義風格拷貝查詢與它的設定頁面。*
-![Editor - CopyWithCustomStyle](macOS/CopyWithCustomStyle.png)
+*SQL編輯器*
+![QueryEditor](macOS/Editor.png)
 
 **資料編輯器**
 
@@ -52,18 +49,18 @@ macOS 14.0+ / [iOS 18.0+](iOS)
 - 預覽修改表結構的SQL。
 
 *修改表結構 - 修改欄位*
-![Alter Table - Fields](macOS/AlterTable.png)
+![Alter Table - Fields](macOS/TableSchema.png)
 
 *修改表結構 - 預覽修改*
-![Alter Table - Preview](macOS/AlterPreview.png)
+![Alter Table - Preview](macOS/AlterTablePreview.png)
 
 **匯入**
 - 支援匯入CSV資料。
 - 支援匯入JSON資料。
 - 支持導入SQL文件。
 
-*匯入文字*
-![Import - Import from CSV Text](macOS/ImportFromCSV.png)
+*匯入*
+![Import](macOS/Import.png)
 
 **資料庫統計**
 - 顯示錶數和表中的記錄數。

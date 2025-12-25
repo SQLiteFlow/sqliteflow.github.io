@@ -27,11 +27,8 @@ Version 6.7.7 | Dec 24, 2025 | <a href="ReleaseNotes" target="_blank">Release No
 - Paste recent query sessions.
 - Explain query.
 
-*Query Editor - Multi-query Execution*
-![Editor](macOS/Editor.png)
-
-*Query Editor - Copy Query as Code and It's Setting*
-![Editor - CopyWithCustomStyle](macOS/CopyWithCustomStyle.png)
+*Query Editor*
+![QueryEditor](macOS/Editor.png)
 
 **Data Editor**
 
@@ -52,18 +49,18 @@ Version 6.7.7 | Dec 24, 2025 | <a href="ReleaseNotes" target="_blank">Release No
 - Preview the query that for altering table.
 
 *Alter Table - Fields*
-![Alter Table - Fields](macOS/AlterTable.png)
+![Alter Table - Fields](macOS/TableSchema.png)
 
 *Alter Table - Preview*
-![Alter Table - Preview](macOS/AlterPreview.png)
+![Alter Table - Preview](macOS/AlterTablePreview.png)
 
 **Import**
 - Supports import CSV data to a table.
 - Supports import JSON data to a table.
 - Supports import data by SQL file.
 
-*Import from CSV Text*
-![Import - Import from CSV Text](macOS/ImportFromCSV.png)
+*Import*
+![Import](macOS/Import.png)
 
 **Export**
 - In Data Editor or Query Results, supports export data to CSV, JSON or Markdown.
