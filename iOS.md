@@ -84,6 +84,12 @@ Version 6.7.3 | Nov 6, 2025 | <a href="iOS/ReleaseNotes" target="_blank">Release
 <br/>
 <img src="iOS/Statistics.png" width="320">
 
+**ER Diagram**
+- Supports display ER diagram.
+- Supports toggle field type hide or show.
+- Supports Relationship Guessing.
+- Supports copy as Mermaid markdown.
+
 **Database Diff**
 - Supports generate SQL text that can let you transform a database into another.
 - Supports show a summary of the differences between two databases.

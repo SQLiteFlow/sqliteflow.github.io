@@ -74,6 +74,7 @@ Version 6.7.7 | Dec 24, 2025 | <a href="ReleaseNotes" target="_blank">Release No
 ![Database Statistics](macOS/Statistics.png)
 
 **ER Diagram**
+- Supports display ER diagram.
 - Supports toggle field type hide or show.
 - Supports Relationship Guessing.
 - Supports copy as Mermaid markdown.

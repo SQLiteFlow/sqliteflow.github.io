@@ -73,6 +73,7 @@ macOS 14.0+ / [iOS 18.0+](iOS)
 ![Database Statistics](macOS/Statistics.png)
 
 **ERダイアグラム**
+- ディスプレイER図をサポートします。
 - フィールドタイプの非表示と表示の切り替えをサポートします。
 - 関係推測の有効化をサポート。
 - Mermaid markdownとしてのコピーをサポートします。

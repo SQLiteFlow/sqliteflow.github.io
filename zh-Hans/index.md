@@ -70,6 +70,7 @@ macOS 14.0+ / [iOS 18.0+](iOS)
 ![Database Statistics](macOS/Statistics.png)
 
 **ER图表**
+- 支持显示ER图表。
 - 支持切换字段类型显示状态。
 - 支持开启关联猜测。
 - 支持拷贝到Mermaid markdown。

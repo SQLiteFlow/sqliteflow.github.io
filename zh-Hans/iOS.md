@@ -82,6 +82,12 @@ SQLiteFlow是为Mac和iOS平台开发的直观，稳定和易用的SQLite编辑�
 <br/>
 <img src="iOS/Statistics.png" width="320">
 
+**ER图表**
+- 支持显示ER图表。
+- 支持切换字段类型显示状态。
+- 支持开启关联猜测。
+- 支持拷贝到Mermaid markdown。
+
 **数据库比较**
 - 支持生成使一个数据库转为另一个数据库SQL语句。
 - 支持只显示两个数据库之间的不同的摘要信息。
