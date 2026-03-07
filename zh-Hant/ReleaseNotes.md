@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新說明。
 ---
 
+6.8.0 - 2026年3月8日
+- 數據編輯器。支持拖拽來重新排列過濾項。
+- 支持SQLite version 3.52.0 (2026-03-06)。
+- 將SQLCipher更新到4.13.0。
+
 6.7.9 - 2026年2月4日
 - 問題修復與穩定性改善。
 

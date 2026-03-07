@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.8.0 - 2026年3月8日
+- データエディタ。ドラッグアンドドロップでフィルタ行を再配置することをサポートします。
+- SQLite バージョン 3.52.0（2026-03-06）をサポートしています。
+- SQLCipher を 4.13.0 に更新する。
+
 6.7.9 - 2026年2月4日
 - バグ修正と安定性の改善。
 
