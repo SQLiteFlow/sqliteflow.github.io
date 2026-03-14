@@ -4,6 +4,11 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.8.1 - Mar 14, 2026
+- Update SQLite library to version 3.51.3 (2026-03-13).
+- Table Schema. Avoid generating same default new field name when adding new fields.
+- Table Schema. When remove a column through UI, if this column has a single-column unique constraint, this unique constraint will be removed alongside with this column to avoid further alter table grammar error.
+
 6.8.0 - Mar 8, 2026
 - Data Editor. Supports drag and drop to re-arrange filter rows.
 - Supports SQLite version 3.52.0 (2026-03-06).
