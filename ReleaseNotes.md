@@ -4,7 +4,7 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
-6.8.2 - Apr 10, 2026
+6.8.3 - Apr 10, 2026
 - Update SQLite library to version 3.53.0 (2026-04-09).
 - Open database dialog now will default display the options view.
 - Open database dialog now can persist the option "Allow select all file types".
