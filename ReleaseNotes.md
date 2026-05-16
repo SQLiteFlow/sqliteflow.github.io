@@ -4,6 +4,12 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.8.4 - May 16, 2026
+- Update SQLite library to version 3.53.1 (2026-05-05).
+- Update SQLCipher to 4.16.0.
+- Database List, supports right click a table name to add a table field by using ALTER TABLE ADD COLUMN statement.
+- Database List, supports right click a field name to drop a table field by using ALTER TABLE DROP COLUMN statement.
+
 6.8.3 - Apr 10, 2026
 - Update SQLite library to version 3.53.0 (2026-04-09).
 - Open database dialog now will default display the options view.

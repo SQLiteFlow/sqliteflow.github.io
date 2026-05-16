@@ -4,6 +4,12 @@ title: SQLiteFlow
 description: Mac SQLiteFlow 更新说明。
 ---
 
+6.8.4 - 2026年5月16日
+- 将SQLite库更新到3.53.1版本（2026-05-05）。
+- 将SQLCipher更新到4.16.0。
+- 数据库列表，支持右键点击一个表名并使用ALTER TABLE ADD COLUMN语句来添加一个字段。
+- 数据库列表，支持右键点击一个字段名并使用ALTER TABLE DROP COLUMN语句来删除一个字段。
+
 6.8.3 - 2026年4月10日
 - 将SQLite库更新到3.53.0版本（2026-04-09）。
 - 打开数据库对话框现在将默认显示选项视图。
