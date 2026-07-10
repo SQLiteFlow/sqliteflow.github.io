@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.8.1 - Jul 10, 2026
+- Bug fixes and stability improvements.
+
 6.8.0 - Mar 14, 2026
 - Table Schema. Avoid generating same default new field name when adding new fields.
 - Table Schema. When remove a column through UI, if this column has a single-column unique constraint, this unique constraint will be removed alongside with this column to avoid further alter table grammar error.
