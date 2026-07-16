@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.8.2 - 2026年7月16日
+- 数据库视图现可保留各节的展开/折叠状态。
+- 其它问题修复与稳定性改善。
+
 6.8.1 - 2026年7月10日
 - 问题修复与稳定性改善。
 
