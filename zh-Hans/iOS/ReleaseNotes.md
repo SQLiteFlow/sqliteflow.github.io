@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.8.5 - 2026年8月6日
+- 转储数据库。移除选项“仅数据”。增加选项“包含DDL"和“包含数据”。
+- 其它问题修复与稳定性改善。
+
 6.8.4 - 2026年8月4日
 - 问题修复与稳定性改善。
 

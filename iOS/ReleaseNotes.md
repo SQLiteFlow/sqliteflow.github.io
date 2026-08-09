@@ -4,6 +4,10 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.8.5 - Aug 6, 2026
+- Dump Database. Remove the option "Data Only". Add two options "Include DDL" and "Include Data".
+- Additional bug fixes and stability improvements.
+
 6.8.4 - Aug 4, 2026
 - Bug fixes and stability improvements.
 
