@@ -4,7 +4,7 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
-6.8.6 - 2026年9月13日
+6.8.9 - 2026年9月13日
 - 十六进制编辑器。修复可能导致无法在ascii区输入字符的问题。
 - 转储数据库。视图结构现在会被导出。
 - 其它问题修复与稳定性改善。

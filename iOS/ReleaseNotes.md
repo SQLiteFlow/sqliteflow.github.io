@@ -4,7 +4,7 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
-6.8.6 - Sep 13, 2026
+6.8.9 - Sep 13, 2026
 - Hex Editor. Fix an issue that may cause user can't input character in ascii section.
 - Dump Database. Views structure now will be exported.
 - Additional bug fixes and stability improvements.
