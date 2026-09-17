@@ -4,6 +4,12 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.8.8 - Sep 13, 2026
+- Hex Editor. Supports edit with external editor. (If you're having trouble editing with an external editor due to permissions, try adjusting the System Settings - Privacy & Security - Files & Folders settings and see if that helps.)
+- Dump Database. Views structure now will be exported.
+- Update SQLCipher to 4.19.0.
+- Additional bug fixes and stability improvements.
+
 6.8.7 - Aug 6, 2026
 - Dump Database. Remove the option "Data Only". Add two options "Include DDL" and "Include Data".
 - Update SQLite library to version 3.53.4 (2026-07-24).
