@@ -4,6 +4,13 @@ title: SQLiteFlow
 description: SQLiteFlow for Mac release notes.
 ---
 
+6.9.0 - Oct 22, 2026
+- Query Editor. Supports Go to Error if query error appears.
+- ER-Diagram. Supports using magnify gesture to zoom in or zoom out the view.
+- Data Editor. If the length of a cell's text is long enough or contains multiple lines, user can edit it in a popover text editor for convenience.
+- Update SQLite library to version 3.54.1 (2026-10-16).
+- This version of SQLiteFlow requires macOS 15.0 or later.
+
 6.8.8 - Sep 13, 2026
 - Hex Editor. Supports edit with external editor. (If you're having trouble editing with an external editor due to permissions, try adjusting the System Settings - Privacy & Security - Files & Folders settings and see if that helps.)
 - Dump Database. Views structure now will be exported.
