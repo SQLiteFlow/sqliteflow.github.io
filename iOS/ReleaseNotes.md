@@ -4,6 +4,16 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.9.0 - Nov 6, 2026
+- Data Editor. Filter. UI enhancement for compact width screen.
+- Data Editor. If the length of a cell's text is long enough or contains multiple lines, user can edit it in a popover text editor for convenience.
+- Query Editor. Supports Go to Error if query error appears.
+- ER-Diagram. Supports using magnify gesture to zoom in or zoom out the view.
+- Browse. When rename or duplicate a database, its associated temp files will be also be renamed or duplicated.
+- Support for iPhone Duo.
+- This version of SQLiteFlow requires iOS 26.0 or later.
+- Additional bug fixes and stability improvements.
+
 6.8.9 - Sep 13, 2026
 - Hex Editor. Fix an issue that may cause user can't input character in ascii section.
 - Dump Database. Views structure now will be exported.
